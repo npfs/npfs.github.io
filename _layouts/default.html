@@ -6,19 +6,27 @@
             <link rel="stylesheet" type="text/css" href="./css/main.css">
         </head>
         <body>
-            <nav>
-                <ul>
-                    <li><a href="/">Home</a></li>
-                    <li><a href="/about">About</a></li>
-                    <li><a href="/cv">CV</a></li>
-                    <li><a href="/blog">Blog</a></li>
-                </ul>
-            </nav>
-            <div class="container">
-            
-            {{ content }}
-            
-            </div><!-- /.container -->
+
+            <div class="sidebar">
+                <h2>NPFS Training</h2>
+                <nav>
+                    <ul>
+                        <li><a href="/cca.html">Call Centre Platform</a></li>
+                        <li><a href="/about">Collection Points and Issuance</a></li>
+                        <li><a href="/cv">Health Care Professional Portal</a></li>
+                        <li><a href="/blog">Administration Portal</a></li>
+                    </ul>
+                </nav>
+            </div>
+
+            <div class="content-container">
+                <div class="container">
+                
+                {{ content }}
+                
+                </div><!-- /.container -->
+            </div>
+
             <footer>
                 <ul>
                     <li><a href="mailto:hankquinlanhub@gmail.com">email</a></li>
@@ -27,4 +35,5 @@
             </footer>
         </body>
     </html>
+
 
