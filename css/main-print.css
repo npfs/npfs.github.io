@@ -5,10 +5,11 @@ img {
 
 body {
   font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 12px;
 }
 
 body {
-  line-height: 1.5;
+  line-height: 1.2;
 }
 
 h2 {
@@ -17,22 +18,17 @@ h2 {
 }
 
 body {
-  color: #555;
+  color: black;
 }
 
 a {
-  color: #e81c4f;
+  color: black;
   text-decoration: none;
-}
-
-a:hover {
-  text-decoration: underline;
-  color: #ff3c6f;
 }
 
 body {
   background: white;
-  color: #566b78;
+  color: black;
 }
 
 body {
@@ -59,15 +55,8 @@ body {
 }
 
 .sidebar {
-    background-color: #322830;
-    height: 100%;
-    left: 0;
-    overflow: auto;
-    padding: 10px;
-    position: fixed;
-    top: 0;
-    width: 280px;
-    color: #eee;
+    visibility: hidden;
+    height: 0px;
 }
 
 .sidebar a {
@@ -81,7 +70,7 @@ body {
 }
 
 .content-container {
-    margin-left: 325px;
+    margin-left: 10px;
     min-height: 100%
 }
 
@@ -98,6 +87,5 @@ img {
     margin-left: auto;
     margin-right: auto;
     max-width: 500px;
-    /*border: 1px solid #eee;*/
-    box-shadow: 1px 1px 8px #eee;
+    border: 1px solid #eee;
 }

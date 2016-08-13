@@ -3,12 +3,13 @@
         <head>
             <title>{{ page.title }}</title>
             <meta name="viewport" content="width=device-width, initial-scale=1">
-            <link rel="stylesheet" type="text/css" href="./css/main.css">
+            <link rel="stylesheet" media="screen" type="text/css" href="./css/main.css">
+            <link rel="stylesheet" media="print" type="text/css" href="./css/main-print.css">
         </head>
         <body>
 
             <div class="sidebar">
-                <h2>NPFS Training</h2>
+                <h2>Training Modules</h2>
                 <nav>
                     <ul>
                         <a href="/">Home</a><br />
@@ -18,10 +19,6 @@
                         <a href="/blog">Administration Portal</a><br />
                     </ul>
                 </nav>
-
-                <footer>
-                    National Pandemic Flu Service 2016
-                </footer>
             </div>
 
             <div class="content-container">
@@ -29,7 +26,7 @@
                 
                 {{ content }}
                 
-                </div><!-- /.container -->
+                </div>
             </div>
 
 

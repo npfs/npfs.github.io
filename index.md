@@ -2,8 +2,8 @@
 layout: default
 title: NPFS Training Index
 ---
-## Welcome
+# Welcome
 
 This is the National Flu Pandemic Service Training Materials Reference
 
-Please select the training material you require from the left hand menu
+**< - - -** Please select the training material you require from the left hand menu
