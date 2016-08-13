@@ -140,6 +140,10 @@ strong {
   font-weight: 800;
 }
 
+h3 {
+  padding-top: 30px;
+}
+
 /* 09 Images */
 
 body {
@@ -320,7 +324,10 @@ footer .button {
 img {
     display: block;
     margin-left: auto;
-    margin-right: auto }
+    margin-right: auto;
+    max-width: 500px;
+    border: 1px solid #eee;
+}
 
 .buttons .button {
   display: block;
