@@ -6,8 +6,13 @@ title: NPFS CCA Training
 
 ## Contents
 
-[Getting Started](#getting-started)
+**[Getting Started](#getting-started)**
 
+  * [Login Screen](#login-screen)
+  * [Select Your User Role](#select-your-user-role)
+  * [New Call Screen](#new-call-screen)
+  * [Script and Hints Panel](#script-and-hints-panel)
+  * [Select Calling Source](#select-calling-source)
 
 ## Getting Started
 

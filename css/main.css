@@ -80,6 +80,12 @@ pre {
 
 a {
   color: #e81c4f;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: red;
 }
 
 /* 07 Secondary colors */
