@@ -1,25 +1,3 @@
-img {
-  height: auto;
-  max-width: 100%;
-}
-
-body {
-  font-family: "Helvetica", "Arial", sans-serif;
-}
-
-body {
-  line-height: 1.5;
-}
-
-h2 {
-  margin-top: 1em;
-  padding-top: 1em;
-}
-
-body {
-  color: #555;
-}
-
 a {
   color: #e81c4f;
   text-decoration: none;
@@ -31,14 +9,17 @@ a:hover {
 }
 
 body {
+  line-height: 1.5;
   background: white;
   color: #566b78;
-}
-
-body {
   font-family: "Roboto", "Helvetica", "Arial", sans-serif;
   -moz-font-smoothing: grayscale;
   -webkit-font-smoothing: antialiased;
+}
+
+h2 {
+  margin-top: 1em;
+  padding-top: 1em;
 }
 
 h1,
@@ -58,16 +39,35 @@ body {
   padding: 0;
 }
 
+blockquote {
+  background-color: #f8f8f8;
+  border-left: 5px solid #ddd;
+  padding: 5px;
+  padding-left: 15px;
+  color: #445;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  min-width: 200px;
+  max-width: 600px;
+  /*border: 1px solid #eee;*/
+  box-shadow: 1px 1px 8px #eee;
+  height: auto;
+}
+
 .sidebar {
-    background-color: #322830;
-    height: 100%;
-    left: 0;
-    overflow: auto;
-    padding: 10px;
-    position: fixed;
-    top: 0;
-    width: 280px;
-    color: #eee;
+  background-color: #322830;
+  height: 100%;
+  left: 0;
+  overflow: auto;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  width: 280px;
+  color: #eee;
 }
 
 .sidebar a {
@@ -81,23 +81,11 @@ body {
 }
 
 .content-container {
-    margin-left: 325px;
-    min-height: 100%
+  margin-left: 325px;
+  min-height: 100%
 }
 
-blockquote {
-  background-color: #f8f8f8;
-  border-left: 5px solid #ddd;
-  padding: 5px;
-  padding-left: 15px;
-  color: #445;
-}
-
-img {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    max-width: 500px;
-    /*border: 1px solid #eee;*/
-    box-shadow: 1px 1px 8px #eee;
+.npfs-logo {
+  border: 1px solid #666;
+  box-shadow: none;
 }
