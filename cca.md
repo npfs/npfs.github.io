@@ -2,7 +2,7 @@
 layout: default
 title: NPFS CCA Training
 ---
-# Call Centre Application (Mediated Portal)
+# Call Centre Application
 
 ## Contents
 
@@ -51,7 +51,7 @@ title: NPFS CCA Training
 
 ## Getting Started
 
-Open this link to access to NPFS Call Centre Application [www.nationalpandemicfluservice.nhs.uk/callcentre](https://www.nationalpandemicfluservice.nhs.uk/callcentre).  It may be advisable to create a bookmark if you will access the application frequently.
+Open this link to access the NPFS Call Centre Application [www.nationalpandemicfluservice.nhs.uk/callcentre](https://www.nationalpandemicfluservice.nhs.uk/callcentre).  It may be advisable to create a bookmark if you will access the application frequently.
 
 At any time you can safely use the **training** system to become familiar with the functions of the live system.  Any actions you take will not be reflected in the live system and you will have no impact on services or patients. [training.nationalpandemicfluservice.nhs.uk/callcentre](https://training.nationalpandemicfluservice.nhs.uk/callcentre)
 
@@ -60,7 +60,7 @@ At any time you can safely use the **training** system to become familiar with t
 
 Enter your unique Username and Password.  These will be supplied by your Team Leader.
 
-![alt text][login-screen]
+![][login-screen]
 
 > Your password must be changed at the first login.  Full instructions are provided later in this guide.
 >
@@ -82,7 +82,7 @@ In order to discourage easy-to-guess passwords, the new password must either be 
 
 You may have multiple roles available.  Select the most appropriate role for the tasks that you need to complete.
 
-![alt text][role-screen]
+![][role-screen]
 
 > **Your Session** -  Confirms the username and role you are currently logged in as, as well as your login time and role once you have selected it.
 >
@@ -92,7 +92,7 @@ You may have multiple roles available.  Select the most appropriate role for the
 
 ### New Call Screen
 
-![alt text][new-call-screen]
+![][new-call-screen]
 
 **Start Now** - Begin a clinical assessment for a caller
 
@@ -102,7 +102,7 @@ You may have multiple roles available.  Select the most appropriate role for the
 
 Select the appropriate Calling Source for the call from the drop down list.
 
-![CCA Select Calling Source][cca-select-calling-source]
+![][cca-select-calling-source]
 
 > Use **Not applicable** if the call is from none of the listed options
 
@@ -110,7 +110,7 @@ Select the appropriate Calling Source for the call from the drop down list.
 
 ### Call Script & Hints Panel
 
-![CCA Call Hints Opening][cca-call-hints-opening]
+![][cca-call-hints-opening]
 
 The **Call Script & Hints** (a.k.a. Grey Floaty Box) will appear on every screen from this point onwards.  It has a number of important functions to help with the assessment process.  
 
@@ -134,7 +134,7 @@ Allows you to quickly end the assessment and return to the start, for example if
 
 The individual functions are accessible by selecting the appropriate tab at the top of the box.
 
-![CCA Call Hints Tabs][cca-call-hints-tabs]
+![][cca-call-hints-tabs]
 
 ##### Guidance
 
@@ -163,7 +163,7 @@ Callers answers are recorded here.  This is updated with each answer selected on
 
 ## Manage URN
 
-![Manage URN Button][manage-urn-button]
+![][manage-urn-button]
 
 The Manage URN function can be used for a number of purposes:
 
@@ -175,7 +175,7 @@ The Manage URN function can be used for a number of purposes:
 
 You can find a URN in the system using either the URN itself, or by supplying a post code, date of birth and gender.
 
-![Manage URN Screen][manage-urn-screen]
+![][manage-urn-screen]
 
 ### Search Results and Cancelling a URN
 
@@ -185,7 +185,7 @@ All URNs matching the supplied search criteria are shown.
 >
 > Ensure that the correct URN for the caller is identified before proceeding.
 
-![Manage URN Search Result][manage-urn-search-result]
+![][manage-urn-search-result]
 
 To **cancel** a URN, select the correct row in the table and click the **Cancel URN** button
 
@@ -349,9 +349,9 @@ By clicking on the name of the Collection Point in the list, full details are pr
 
 
 
-[login-screen]: images/login-screen.jpg "Logo Title Text 2"
-[role-screen]: images/role-screen.jpg "Logo Title Text 2"
-[new-call-screen]: images/new-call-screen.jpg "Logo Title Text 2"
+[login-screen]: images/login-screen.jpg "Login Screen"
+[role-screen]: images/role-screen.jpg "Role Screen"
+[new-call-screen]: images/new-call-screen.jpg "New Call Screen"
 [cca-call-hints-opening]: images/cca-call-hints-opening.jpg "CCA Call Hints Opening"
 [cca-call-hints-tabs]: images/cca-call-hints-tabs.png "CCA Call Hints Tabs"
 [cca-select-calling-source]: images/cca-select-calling-source.jpg "CCA Select Calling Source"
