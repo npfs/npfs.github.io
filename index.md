@@ -6,4 +6,4 @@ title: NPFS Training Index
 
 This is the National Flu Pandemic Service Training Materials Reference
 
-Please select the training material you require from the **Training Materials** menu
+Please select the training material you require from the **Training Modules** menu
