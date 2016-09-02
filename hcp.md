@@ -2,18 +2,7 @@
 layout: default
 title: NPFS Health Care Professional Training
 ---
-
-## Nothing to see here
-
-This page is intentionally left blank, except this message...
-
-
-Check back here later, it might not be blank any more.
-
-
-
-
-
+s
 
 ## Getting Started
 
@@ -58,10 +47,48 @@ You may have multiple roles available.  Select the most appropriate role for the
 
 
 
+### Call Script & Hints Panel
+
+![][cca-call-hints-opening]
+
+The **Call Script & Hints** (a.k.a. Grey Floaty Box) will appear on every screen from this point onwards.  It has a number of important functions to help with the assessment process.  
+
+#### Navigations Buttons
+
+Three navigation buttons are provided allowing rapid movement through the assessment process.
+
+##### Undo
+
+Undoes the previous action and navigates back, allowing amendments to be made
+
+##### Redo
+
+Re-apply the previously undone function and move forward
+
+##### End Call
+
+Allows you to quickly end the assessment and return to the start, for example if the caller no longer wants to continue
+
+#### Tabs
+
+The individual functions are accessible by selecting the appropriate tab at the top of the box.
+
+##### Answers
+
+Callers answers are recorded here.  This is updated with each answer selected on a page as you progress through the assessment.
+
+
+
+
+
+
+
 
 
 
 ## Carrying out an Assessment
+
+![][hcp-call-hints]
 
 A grey hover box will appear on every screen from this point onwards to record each answer you have input should you need to refer to it with the Patient at any stage
 
@@ -93,6 +120,8 @@ You will be asked whether you wish to **\'Follow algorithm\'** or **\'Bypass & s
 
 
 ## Bypass & Self-Prescribe Assessment
+
+![][hcp-bypass-question]
 
 There are critical pieces of information that need to be submitted for the system to advise on an appropriate treatment course for each assessment.
 
@@ -127,5 +156,7 @@ Use **\'Restart\'** to end the assessment and return to the start of the assessm
 
 [login-screen]: images/login-screen.jpg "Login Screen"
 [role-screen]: images/role-screen.jpg "Role Screen"
+[hcp-bypass-question]: images/hcp-bypass-question.png "HCP Algorithm Bypass Question"
+[hcp-call-hints]: images/hcp-call-hints.png "HCP Call Hints Panel"
 
 
