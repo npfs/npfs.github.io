@@ -2,7 +2,7 @@
 layout: default
 title: NPFS Health Care Professional Training
 ---
-s
+# Health Care Professional Portal
 
 ## Getting Started
 
