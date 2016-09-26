@@ -4,9 +4,27 @@ title: NPFS Health Care Professional Training
 ---
 # Health Care Professional Portal
 
+## Contents
+
+**[Getting Started](#getting-started)**
+
+  * [Login Screen](#login-screen)
+  * [Select Your User Role](#select-your-user-role)
+  * [Call Script & Hints Panel](#call-script--hints-panel)
+
+**[Carrying out an Assessment](#carrying-out-an-assessment)**
+
+**[Bypass & Self-Prescribe Assessment](#bypass--self-prescribe-assessment)**
+
+**[Assessment Results](#assessment-results)**
+
+
+
+
+
 ## Getting Started
 
-Open this link to access the NPFS Call Centre Application [www.nationalpandemicfluservice.nhs.uk/hcp](https://www.nationalpandemicfluservice.nhs.uk/hcp).  It may be advisable to create a bookmark if you will access the application frequently.
+Open this link to access the NPFS Health Care Professional Application [www.nationalpandemicfluservice.nhs.uk/hcp](https://www.nationalpandemicfluservice.nhs.uk/hcp).  It may be advisable to create a bookmark if you will access the application frequently.
 
 At any time you can safely use the **training** system to become familiar with the functions of the live system.  Any actions you take will not be reflected in the live system and you will have no impact on services or patients. [training.nationalpandemicfluservice.nhs.uk/hcp](https://training.nationalpandemicfluservice.nhs.uk/hcp)
 
