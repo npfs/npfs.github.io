@@ -30,4 +30,3 @@ For minor changes (errors, corrections etc.) to the documentation, then it is re
 For more in-depth changes it would be recommended to pull the repo then make and assess changes locally.  To do this you will need to install Jekyll.  An full guide is provided [here][https://jekyllrb.com/docs/quickstart/].
 
 
-
