@@ -11,11 +11,30 @@ title: NPFS Admin Portal Training
   * [Login Screen](#login-screen)
   * [Select Your User Role](#select-your-user-role)
 
-**[Carrying out an Assessment](#carrying-out-an-assessment)**
+**[Bulk Load Users](#bulk-load-users)**
 
-**[Bypass & Self-Prescribe Assessment](#bypass--self-prescribe-assessment)**
+  * [CSV Creation](#csv-creation)
+  * [CSV Upload](#csv-upload)
 
-**[Assessment Results](#assessment-results)**
+**[User Management](#user-management)**
+
+  * [Create A New Account](#create-a-new-account)
+  * [Managing a Subordinates Account](#managing-a-subordinates-account)
+  * [Manage Account Details](#manage-account-details)
+  * [Manage Roles and Access](#manage-roles-and-access)
+  * [Manage Password - Reset](#manage-password---reset)
+  * [Manage Password - 2 Factor Authentication](#manage-password---2-factor-authentication)
+
+**[System Configuration](#system-configuration)**
+
+  * [Environment Settings](#environment-settings)
+
+**[Collection Point Upload](#collection-point-upload)**
+
+  * [CSV Creation](#csv-creation)
+  * [CSV Upload](#csv-upload)
+  * [Known Issues](#known-issues)
+
 
 
 
