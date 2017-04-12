@@ -221,6 +221,8 @@ SCAS are responsible for the distribution of passwords and account details, maki
 
 [login-screen]: images/login-screen.jpg "Login Screen"
 [role-screen]: images/role-screen.jpg "Role Screen"
+[admin-login]: images/admin-login.png "Admin Login Screen"
+[admin-role-screen]: images/admin-role-screen.png "Admin Role Screen"
 [admin-collection-point-upload]: images/admin-collection-point-upload.png "Admin Collection Point Upload Icon"
 [admin-bulk-load]: images/admin-bulk-load.png "Admin Bulk Load Icon"
 [admin-bulk-load-template]: images/admin-bulk-load-template.png "Admin Bulk Load Template"
