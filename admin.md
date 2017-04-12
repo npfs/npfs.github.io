@@ -192,7 +192,7 @@ SCAS are responsible for the distribution of passwords and account details, maki
 
 ### Environment Settings
 
-* This is where the various NPFS environments - including live - are managed.
+* This is where the various NPFS environments - including live - are managed
 * This element of the Admin Portal is restricted to very limited, high privileged users from the Command & Control and NHS Digital DevOps teams
 
 
@@ -202,13 +202,13 @@ SCAS are responsible for the distribution of passwords and account details, maki
 
 ### CSV Creation
 
-* This is where the Collection Point information is managed (i.e. active collection points and their associated details).
+* This is where the Collection Point information is managed (i.e. active collection points and their associated details)
 * This element of the Admin Portal is restricted to very limited, high privileged users from the Command & Control and NHS Digital DevOps teams
 
 
 ### CSV Upload
 
-* This is where the Collection Point information is managed (i.e. active collection points and their associated details).
+* This is where the Collection Point information is managed (i.e. active collection points and their associated details)
 * This element of the Admin Portal is restricted to very limited, high privileged users from the Command & Control and NHS Digital DevOps teams
 
 
