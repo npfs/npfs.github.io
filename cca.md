@@ -44,7 +44,7 @@ title: NPFS CCA Training
   * [Collection Point Identification](#collection-point-identifications)
   * [Searching for Collection Point](#searching-for-collection-point)
   * [Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)
-  * [Feedback Tell us what you think](#feedback-tell-us-what-you-think)
+  * [Feedback - Tell us what you think](#feedback---tell-us-what-you-think)
 
 
 
@@ -360,7 +360,7 @@ In addition to the drop-down list, there is a free-text field to enter supportin
 ![][exit-assessment-reason]
 
 
-### Feedback Tell us what you think
+### Feedback - Tell us what you think
 
 You can provide feedback on the Pandemic Flu service at any time whilst on the portal, by clicking the ”Provide feedback on the Pandemic Flu service” link on the right of every page.
 
