@@ -30,6 +30,7 @@ title: NPFS Issuance Training
   * [Status of URN is Expired](#status-of-urn-is-expired)
   * [Status of URN is Issued](#status-of-urn-is-issued)
 
+**[Feedback - Tell us what you think](#feedback---tell-us-what-you-think)**
 
 
 
@@ -44,7 +45,7 @@ At any time you can safely use the **training** system to become familiar with t
 
 Enter your unique Username and Password.  These will be supplied by your Team Leader.
 
-![][login-screen]
+![][issuance-login-screen]
 
 > Your password must be changed at the first login.  Full instructions are provided later in this guide.
 >
@@ -110,22 +111,14 @@ Search on Postcode, Date of Birth and Gender to find the correct URN for the pat
 
 ![][issuance-by-voucher]
 
-You will need to enter a number of details for the patient, including Name, Date of Birth, Gender and Postcode to find the correct URN for the patient.
+You will need to enter a number of details for the patient, including Gender, Date of Birth, Name and Postcode to find the correct URN for the patient.
 
-In addition, specific details about the voucher must be recorded
+The type of identification documentation presented for the patient must be provided, and whether the person collecting the anti-viral is the patient themselves or a proxy.
 
-![][issuance-by-voucher-details]
+![][issuance-patient-details]
 
-**Voucher Type** - Select FP10SS (GP10SS in Scotland) for a Prescription, or Other for an Anti-Viral voucher (see example below)
+![][issuance-voucher-document]
 
-**Voucher Reference** - The prescription number or reference number if printed, otherwise enter **N/A**
-
-**Antiviral** - The type and dosage of Antiviral issued
-
-**GP Practice Code** - Enter the GP practice code and select the corresponding practice
-
-
-![][issuance-voucher]
 
 
 ## Identification of Collecting Person
@@ -156,35 +149,65 @@ They were advised of the requirement for ID for both patient and Flu Friend at t
 
 > If they do not have ID they cannot be issued antivirals.
 
+In addition, specific details about the voucher must be recorded.
+
+**Voucher Type** - Select FP10SS (GP10SS in Scotland) for a Prescription, or Other for an Anti-Viral voucher (see example below)
+
+**Voucher Reference** - The prescription number or reference number if printed, otherwise enter **N/A**
+
+**Antiviral** - The type and dosage of Antiviral issued
+
+**GP Practice Code** - Enter the GP practice code and select the corresponding practice
+
+
+![][issuance-voucher]
+
 
 
 ## Dealing with Issues
 
 ### Duplicate URN
 
-On rare occasions a duplicate URN may be issued by the NPFS system. 
+On rare occasions a duplicate URN may be issued by the NPFS system.
 
-If this occurs, the demographic details of the patient will be displayed at the point of searching for a URN. 
+If this occurs, the demographic details of the patient will be displayed at the point of searching for a URN.
 
 You must select the record associated with the person attending for issuance - use the ID they have with them to confirm this.
 
 
-### Status of URN is Expired 
+### Status of URN is Expired
 
 Each URN is only valid for 7 days - this is identified at the time of the completed assessment and is important for patient safety
 
-If a URN has expired this will be marked next to the URN when you conduct a search on the system (either via URN Lookup or Recover URN and you will not be able to issue the antivirals 
+If a URN has expired this will be marked next to the URN when you conduct a search on the system (either via URN Lookup or Recover URN and you will not be able to issue the antivirals
 
 
-### Status of URN is Issued 
+### Status of URN is Issued
 
 Each URN is only able to be used to collect one dose of antivirals - this  is important for patient safety
 
-If a URN has already been issued \(i.e. antivirals collected\) this will be marked next to the URN when you conduct a search on the system \(either via URN Lookup or Recover URN\) and you will not be able to issue the antivirals 
+If a URN has already been issued \(i.e. antivirals collected\) this will be marked next to the URN when you conduct a search on the system \(either via URN Lookup or Recover URN\) and you will not be able to issue the antivirals
 
 Details of whether the antivirals were issued to the Patient or a Flu Friend and when they were dispensed is also displayed.
 
 
+### Feedback - Tell us what you think
+
+You can provide feedback on the Pandemic Flu service at any time whilst on the portal, by clicking the ”Provide feedback on the Pandemic Flu service” link on the right of every page.
+
+This is important, and will help us improve the service offered.
+
+This can be used either for feedback from your own experience, or for the patient you are talking to, for example if the questions are unclear for them.
+
+![][feedback-tell-us-what-you-think]
+
+This will allow you to enter in the type of feedback, including a free text field to provide specific information.
+
+![][feedback-form]
+
+You (or the patient if it is their feedback) can choose to be contacted about this feedback, or not.
+
+If they choose to be contacted, the next page will ask for their name and contact details.
 
 
 
@@ -195,17 +218,21 @@ Details of whether the antivirals were issued to the Patient or a Flu Friend and
 
 
 
-[login-screen]: images/login-screen.jpg "Login Screen"
-[role-screen]: images/role-screen.jpg "Role Screen"
+[issuance-login-screen]: images/issuance-login-screen.jpg "Issuance Login Screen"
+[issuance-role-screen]: images/issuance-role-screen.jpg "Issuance Role Screen"
 [issuance-urn-lookup]: images/issuance-urn-lookup.png "Issuance URN Lookup"
 [issuance-recover-urn]: images/issuance-recover-urn.png "Issuance Recover URN"
 [issuance-by-voucher]: images/issuance-by-voucher.png "Issuance By Voucher"
+[issuance-patient-details]: images/issuance-patient-details.png "Issuance Patient Details"
 [issuance-urn-lookup-result]: images/issuance-urn-lookup-result.png "Issuance URN Lookup Result"
 [issuance-patient-identification]: images/issuance-patient-identification.png "Issuance Patient Identifcation"
 [issuance-patient-proxy]: images/issuance-patient-proxy.png "Issuance Patient Proxy"
 [issuance-dispense]: images/issuance-dispense.png "Issuance Dispense"
 [issuance-by-voucher-details]: images/issuance-by-voucher-details.png "Voucher Details Capture"
 [issuance-voucher]: images/issuance-voucher.png "Issuance Voucher"
+[issuance-voucher-document]: images/issuance-voucher-document.png "Issuance Voucher Document"
+[feedback-tell-us-what-you-think]: images/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
+[feedback-form]: images/feedback-form.png "Feedback Form"
 
 
 
