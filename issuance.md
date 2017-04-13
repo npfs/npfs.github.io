@@ -115,7 +115,7 @@ You will need to enter a number of details for the patient, including Gender, Da
 
 The type of identification documentation presented for the patient must be provided, and whether the person collecting the anti-viral is the patient themselves or a proxy.
 
-![][issuance-patient-details]
+![][issuance-patient-details-form]
 
 ![][issuance-voucher-document]
 
@@ -218,12 +218,12 @@ If they choose to be contacted, the next page will ask for their name and contac
 
 
 
-[issuance-login-screen]: images/issuance-login-screen.jpg "Issuance Login Screen"
-[issuance-role-screen]: images/issuance-role-screen.jpg "Issuance Role Screen"
+[issuance-login-screen]: images/issuance-login-screen.png "Issuance Login Screen"
+[issuance-role-screen]: images/issuance-role-screen.png "Issuance Role Screen"
 [issuance-urn-lookup]: images/issuance-urn-lookup.png "Issuance URN Lookup"
 [issuance-recover-urn]: images/issuance-recover-urn.png "Issuance Recover URN"
 [issuance-by-voucher]: images/issuance-by-voucher.png "Issuance By Voucher"
-[issuance-patient-details]: images/issuance-patient-details.png "Issuance Patient Details"
+[issuance-patient-details-form]: images/issuance-patient-details-form.png "Issuance Patient Details Form"
 [issuance-urn-lookup-result]: images/issuance-urn-lookup-result.png "Issuance URN Lookup Result"
 [issuance-patient-identification]: images/issuance-patient-identification.png "Issuance Patient Identifcation"
 [issuance-patient-proxy]: images/issuance-patient-proxy.png "Issuance Patient Proxy"
