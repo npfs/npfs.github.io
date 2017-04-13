@@ -233,7 +233,7 @@ This can be used either for feedback from your own experience, or for the patien
 
 This will allow you to enter in the type of feedback, including a free text field to provide specific information.
 
-![][feedback-tell-us-what-you-think]
+![][feedback-form]
 
 You (or the patient if it is their feedback) can choose to be contacted about this feedback, or not.
 
@@ -251,7 +251,7 @@ If they choose to be contacted, the next page will ask for their name and contac
 [hcp-bypass-question]: images/hcp-bypass-question.png "HCP Algorithm Bypass Question"
 [hcp-call-hints]: images/hcp-call-hints.png "HCP Call Hints Panel"
 [manage-urn-button]: images/manage-urn-button.png "Manage URN Button"
-[manage-urn-search]: images/manage-urn-search.png "Manage URN Search"
+[manage-urn-search-form]: images/manage-urn-search-form.png "Manage URN Search Form"
 [manage-urn-search-result]: images/manage-urn-search-result.png "Manage URN Search Result"
 [manage-urn-results-select]: images/manage-urn-results-select.png "Manage URN Results Select"
 [cancel-urn]: images/cancel-urn.png "Cancel URN"

@@ -178,7 +178,7 @@ The Manage URN function can be used for a number of purposes:
 
 You can find a URN in the system using either the URN itself, or by supplying a post code, date of birth and gender.
 
-![][manage-urn-screen]
+![][manage-urn-search-form]
 
 ### Search Results and Cancelling a URN
 
@@ -392,7 +392,7 @@ If they choose to be contacted, the next page will ask for their name and contac
 [cca-call-hints-tabs]: images/cca-call-hints-tabs.png "CCA Call Hints Tabs"
 [cca-select-calling-source]: images/cca-select-calling-source.jpg "CCA Select Calling Source"
 [manage-urn-button]: images/manage-urn-button.png "Manage URN Button"
-[manage-urn-screen]: images/manage-urn-screen.png "Manage URN Screen"
+[manage-urn-search-form]: images/manage-urn-search-form.png "Manage URN Search Form"
 [manage-urn-search-result]: images/manage-urn-search-result.png "Manage URN Search Result"
 [authorisation-intro]: images/authorisation-intro.png "Authorisation Introduction Text"
 [authorisation-urn]: images/authorisation-urn.png "Authorisation URN Text"
