@@ -204,6 +204,8 @@ Please note that even when entering a URN, two results may appear. Again, you wi
 
 You can then select the right record and then Cancel URN.
 
+![][manage-urn-results-select]
+
 The next screen will prompt you to provide a reason for cancellation. The option of “Other” will prompt you to enter details in a free text box.
 
 ![][cancel-urn]
