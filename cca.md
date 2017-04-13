@@ -376,7 +376,7 @@ This can be used either for feedback from your own experience, or for the patien
 
 This will allow you to enter in the type of feedback, including a free text field to provide specific information.
 
-![][feedback-tell-us-what-you-think]
+![][feedback-form]
 
 You (or the patient if it is their feedback) can choose to be contacted about this feedback, or not.
 
