@@ -151,7 +151,7 @@ They were advised of the requirement for ID for both patient and Flu Friend at t
 
 In addition, specific details about the voucher must be recorded.
 
-**Voucher Type** - Select FP10SS (GP10SS in Scotland) for a Prescription, or Other for an Anti-Viral voucher (see example below)
+**Voucher Type** - Select FP10SS (GP10SS in Scotland) for a Prescription, or Other for an Anti-Viral voucher
 
 **Voucher Reference** - The prescription number or reference number if printed, otherwise enter **N/A**
 
@@ -160,7 +160,7 @@ In addition, specific details about the voucher must be recorded.
 **GP Practice Code** - Enter the GP practice code and select the corresponding practice
 
 
-![][issuance-voucher]
+![][issuance-by-voucher-details]
 
 
 
