@@ -271,6 +271,8 @@ You can either find their address using their postcode:
 
 ![][postcode-address-finder]
 
+Or you can enter the address manually:
+
 ![][postcode-address-finder-screen2]
 
 
