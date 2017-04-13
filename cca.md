@@ -372,9 +372,16 @@ This is important, and will help us improve the service offered.
 
 This can be used either for feedback from your own experience, or for the patient you are talking to, for example if the questions are unclear for them.
 
-![][tell_us-what-you-think]
+![][feedback-tell-us-what-you-think]
 
 This will allow you to enter in the type of feedback, including a free text field to provide specific information.
+
+![][feedback-tell-us-what-you-think]
+
+You (or the patient if it is their feedback) can choose to be contacted about this feedback, or not.
+
+If they choose to be contacted, the next page will ask for their name and contact details.
+
 
 
 
@@ -396,6 +403,7 @@ This will allow you to enter in the type of feedback, including a free text fiel
 [non-authorised-assessment]: images/non-authorised-assessment.png "Non Authorised Assessment"
 [floaty-box-tabs]: images/floaty-box-tabs.png "Floaty Box"
 [exit-assessment-reason]: images/exit-assessment-reason.png "Exit Assessment Reason"
-[tell_us-what-you-think]: images/tell_us-what-you-think.png "Tell us what you think"
+[feedback-tell-us-what-you-think]: images/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
+[feedback-form]: images/feedback-form.png "Feedback Form"
 
 
