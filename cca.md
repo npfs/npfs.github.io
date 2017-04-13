@@ -271,6 +271,8 @@ You can either find their address using their postcode:
 
 ![][postcode-address-finder]
 
+![][postcode-address-finder-screen2]
+
 
 ## Clinical Assessment Questions
 
