@@ -194,7 +194,7 @@ You can either enter a patient’s URN, if you know what this is, or enter their
 
 When entering their demographic details, you must enter all details in each of the three fields.
 
-![][manage-urn-search]
+![][manage-urn-search-form]
 
 Search Results will be displayed, and you will need to confirm that the details on the screen correspond with the patient, even if only one result appears.
 
