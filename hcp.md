@@ -200,7 +200,7 @@ Search Results will be displayed, and you will need to confirm that the details 
 
 Please note that even when entering a URN, two results may appear. Again, you will need to check the person’s name, date of birth and postcode to make sure you select the right one.
 
-![][manage-urn-results]
+![][manage-urn-search-result]
 
 You can then select the right record and then Cancel URN.
 
@@ -252,7 +252,7 @@ If they choose to be contacted, the next page will ask for their name and contac
 [hcp-call-hints]: images/hcp-call-hints.png "HCP Call Hints Panel"
 [manage-urn-button]: images/manage-urn-button.png "Manage URN Button"
 [manage-urn-search]: images/manage-urn-search.png "Manage URN Search"
-[manage-urn-results]: images/manage-urn-results.png "Manage URN Results"
+[manage-urn-search-result]: images/manage-urn-search-result.png "Manage URN Search Result"
 [manage-urn-results-select]: images/manage-urn-results-select.png "Manage URN Results Select"
 [cancel-urn]: images/cancel-urn.png "Cancel URN"
 [cancel-urn-review-details]: images/cancel-urn-review-details.png "Cancel URN Review Details"
