@@ -18,6 +18,9 @@ title: NPFS Health Care Professional Training
 
 **[Assessment Results](#assessment-results)**
 
+**[Assessment Results](#assessment-results)**
+
+**[Feedback - Tell us what you think](#feedback---tell-us-what-you-think)**
 
 
 
@@ -67,9 +70,9 @@ You may have multiple roles available.  Select the most appropriate role for the
 
 ### Call Script & Hints Panel
 
-![][cca-call-hints-opening]
+![][call-script-hints-panel]
 
-The **Call Script & Hints** (a.k.a. Grey Floaty Box) will appear on every screen from this point onwards.  It has a number of important functions to help with the assessment process.  
+The **Call Script & Hints** (a.k.a. Grey Floaty Box) will appear on every screen from this point onwards.  It has a number of important functions to help with the assessment process.
 
 #### Navigations Buttons
 
@@ -139,6 +142,10 @@ You will be asked whether you wish to **\'Follow algorithm\'** or **\'Bypass & s
 
 ## Bypass & Self-Prescribe Assessment
 
+If you are a GP, you are able to bypass the algorithm after entering in the patient’s country, their name, date of birth and postcode, as well as whether they have specialist renal or kidney treatment.
+
+All other health care practitioners will need to go through the clinical algorithm.
+
 ![][hcp-bypass-question]
 
 There are critical pieces of information that need to be submitted for the system to advise on an appropriate treatment course for each assessment.
@@ -147,7 +154,7 @@ There are critical pieces of information that need to be submitted for the syste
 
 The system will advise which drug & dose is recommended based on the information provided.
 
-> Select the antiviral from the drop-down list that you wish to issue for the patient 
+> Select the antiviral from the drop-down list that you wish to issue for the patient
 
 If you have stock of the drug you can chose to issue to the patient at this point (and record the dispense reference).
 
@@ -169,12 +176,88 @@ Use **\'Show nearest collection points\'** to help the patient locate a convenie
 Use **\'Restart\'** to end the assessment and return to the start of the assessment for the next patient
 
 
+## Manage URN
+
+The Manage URN function can be used for a number of purposes:
+
+* Retrieving a previously issued URN for a caller, for example if they have forgotten it
+
+* Checking on the status of a previously issued URN, for example if it might have expired
+
+* Cancelling a URN, for example if the caller want to complete a new assessment
+
+On the Health Care Professional Portal, select Manage URN:
+
+![][manage-urn-button]
+
+You can either enter a patient’s URN, if you know what this is, or enter their postcode, date of birth and gender (“demographic details”).
+
+When entering their demographic details, you must enter all details in each of the three fields.
+
+![][manage-urn-search-form]
+
+Search Results will be displayed, and you will need to confirm that the details on the screen correspond with the patient, even if only one result appears.
+
+Please note that even when entering a URN, two results may appear. Again, you will need to check the person’s name, date of birth and postcode to make sure you select the right one.
+
+![][manage-urn-search-result]
+
+You can then select the right record and then Cancel URN.
+
+![][manage-urn-results-select]
+
+The next screen will prompt you to provide a reason for cancellation. The option of “Other” will prompt you to enter details in a free text box.
+
+![][cancel-urn]
+
+You will then be prompted to Confirm the cancellation of this URN:
+
+![][cancel-urn-review-details]
+
+Clicking on Proceed will cancel the URN, providing confirmation.
+
+![][cancel-urn-confirmation]
+
+You can now proceed with a fresh assessment of the patient.
+
+Clicking Restart will return you to the main screen for the Health Care Professional Portal.
+
+
+### Feedback - Tell us what you think
+
+You can provide feedback on the Pandemic Flu service at any time whilst on the portal, by clicking the ”Provide feedback on the Pandemic Flu service” link on the right of every page.
+
+This is important, and will help us improve the service offered.
+
+This can be used either for feedback from your own experience, or for the patient you are talking to, for example if the questions are unclear for them.
+
+![][feedback-tell-us-what-you-think]
+
+This will allow you to enter in the type of feedback, including a free text field to provide specific information.
+
+![][feedback-form]
+
+You (or the patient if it is their feedback) can choose to be contacted about this feedback, or not.
+
+If they choose to be contacted, the next page will ask for their name and contact details.
 
 
 
-[login-screen]: images/login-screen.jpg "Login Screen"
-[role-screen]: images/role-screen.jpg "Role Screen"
+
+
+
+
+[login-screen]: images/cca-login.png "Login Screen"
+[role-screen]: images/hcp-role-screen.png "Role Screen"
+[call-script-hints-panel]: images/call-script-hints-panel.png "Call Script Hints Panel"
 [hcp-bypass-question]: images/hcp-bypass-question.png "HCP Algorithm Bypass Question"
 [hcp-call-hints]: images/hcp-call-hints.png "HCP Call Hints Panel"
-
-
+[manage-urn-button]: images/manage-urn-button.png "Manage URN Button"
+[manage-urn-search-form]: images/manage-urn-search-form.png "Manage URN Search Form"
+[manage-urn-search-result]: images/manage-urn-search-result.png "Manage URN Search Result"
+[manage-urn-results-select]: images/manage-urn-results-select.png "Manage URN Results Select"
+[cancel-urn]: images/cancel-urn.png "Cancel URN"
+[cancel-urn-review-details]: images/cancel-urn-review-details.png "Cancel URN Review Details"
+[cancel-urn-confirmation]: images/cancel-urn-confirmation.png "Cancel URN Confirmation"
+[feedback-tell-us-what-you-think]: images/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
+[feedback-form]: images/feedback-form.png "Feedback Form"

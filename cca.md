@@ -45,7 +45,7 @@ title: NPFS CCA Training
   * [Searching for Collection Point](#searching-for-collection-point)
   * [Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)
 
-
+**[Feedback - Tell us what you think](#feedback---tell-us-what-you-think)**
 
 
 
@@ -104,7 +104,9 @@ Select the appropriate Calling Source for the call from the drop down list.
 
 ![][cca-select-calling-source]
 
-> Use **Not applicable** if the call is from none of the listed options
+Use **Not applicable** if the call is from none of the listed options. This will be used in most cases, because the caller is calling for a flu assessment for themselves, or on behalf of someone else.
+
+User **Other** if **not** British Sign Language, Language Line, Textphone, to record the fact that you are taking a call but not related to a flu assessment.
 
 
 
@@ -112,7 +114,7 @@ Select the appropriate Calling Source for the call from the drop down list.
 
 ![][cca-call-hints-opening]
 
-The **Call Script & Hints** (a.k.a. Grey Floaty Box) will appear on every screen from this point onwards.  It has a number of important functions to help with the assessment process.  
+The **Call Script & Hints** (a.k.a. Grey Floaty Box) will appear on every screen from this point onwards.  It has a number of important functions to help with the assessment process.
 
 #### Navigations Buttons
 
@@ -169,13 +171,14 @@ The Manage URN function can be used for a number of purposes:
 
 * Retrieving a previously issued URN for a caller, for example if they have forgotten it
 * Checking on the status of a previously issued URN, for example if it might have expired
-* Cancelling a URN, for example if the caller want to complete a new assessment
+* Cancelling a URN, for example if the caller wants to complete a new assessment, as their symptoms have changed
+
 
 ### Locating a URN
 
 You can find a URN in the system using either the URN itself, or by supplying a post code, date of birth and gender.
 
-![][manage-urn-screen]
+![][manage-urn-search-form]
 
 ### Search Results and Cancelling a URN
 
@@ -200,7 +203,7 @@ Introduce the first few questions with the phrase **\"I now need to find out som
 
 Gather these details accurately, filling out all the boxes on the screen and confirming back with the Caller.
 
-Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued). 
+Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued).
 
 > **Remember** - getting the date of birth right is really important for correct dosage calculation - a valid date must be input for you to be able to click \'continue\'.
 
@@ -239,9 +242,9 @@ Recent Travel if the caller cannot answer this question without help use the \'t
 
 Gather these details accurately, filling out all the boxes on the screen and confirming back with the Caller.  You must check spellings to ensure accuracy, using the phonetic alphabet where appropriate
 
-The phonetic alphabet is available on every page in the grey floating panel on the right hand side 
+The phonetic alphabet is available on every page in the grey floating panel on the right hand side
 
-Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued). 
+Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued).
 
 If you make any errors in entering the information you must use the \'Undo\' feature to return to the necessary page to correct the information while the caller is still talking to you.
 
@@ -254,11 +257,23 @@ If you make any errors in entering the information you must use the \'Undo\' fea
 
 The **Swabbing** allows Public Health England to collect swabs from a sample of the infected population to provide data for analysis.
 
+This page will only appear if the caller has been assessed and they are going to be provided with an unique reference number for an anti-viral.
+
+![][swabbing-consent-question]
+
+
+
 ### What Happens Next
 
 The patient will be asked for address details.  They *may* be sent a swabbing pack by post.
 
+You can either find their address using their postcode:
 
+![][postcode-address-finder]
+
+Or you can enter the address manually:
+
+![][postcode-address-finder-screen2]
 
 
 ## Clinical Assessment Questions
@@ -267,7 +282,7 @@ These questions must be read from the screen **word-for-word**.  Use pauses to a
 
 Allow the caller time to respond to each question, do not click on a button until they have confirmed their answer to each question.
 
-For the flu symptom question, pause to identify whether the Patient has a high temperature **before** moving on to read out symptoms.  
+For the flu symptom question, pause to identify whether the Patient has a high temperature **before** moving on to read out symptoms.
 
 For the questions that follow, if the Caller answers \'yes\' to one part, record the answer and move on.
 
@@ -282,14 +297,14 @@ For the questions that follow, if the Caller answers \'yes\' to one part, record
 
 Follow the guidance in the grey floating panel on the right hand side.
 
-Instead of reading the on-screen text at the beginning of the assessment summary, you should say: 
+Instead of reading the on-screen text at the beginning of the assessment summary, you should say:
 **\"This is the end of the assessment. Please listen to the information I am about to provide carefully and write down the key points.\"**
 
 **Clinical Advice** - read this section **word-for-word** - remember the Caller needs to be clear what they should do and when
 
-Pause in between each paragraph to allow the Caller to take in the information and make notes 
+Pause in between each paragraph to allow the Caller to take in the information and make notes
 
-**Antiviral Authorisation** - read this section **word-for-word** 
+**Antiviral Authorisation** - read this section **word-for-word**
 
 
 ### URN
@@ -313,11 +328,14 @@ When reading out items from the list, start at an appropriate place for the Call
 
 > For assessments that result in a \'no antiviral\' outcome, Agent scripting is as follows:
 >
-> **\"We have now reached the end of the assessment.**
+> *"Based on the answers provided, the Patient has **not** been recommended for an antiviral now.*
 >
-> **The result is that an antiviral treatment course is NOT recommended for the Patient.**
->
-> **However, if the Patient is not well please contact their local NHS Service.\"**
+> *Not all assessments will result in the provision of an antiviral. In this case, the Patient should follow the clinical advice I am going to read out to you."*
+
+
+Here is an example from an assessment that reaches an end-point where an anti-viral has not been recommended. Depending on the assessment, other information may also appear to advise the caller.
+
+![][non-authorised-assessment]
 
 
 ### Searching for Collection Point
@@ -335,33 +353,57 @@ By clicking on the name of the Collection Point in the list, full details are pr
 
 ### Ending the Call Mid-Assessment
 
-**SCAS to provide text**
+If a user ends the call, you should press the “End Call” button in the grey “floaty box”.
+
+![][floaty-box-tabs]
+
+The next screen will allow you to choose a reason for ending call and exiting the assessment.
+
+In addition to the drop-down list, there is a free-text field to enter supporting information.
+
+![][exit-assessment-reason]
+
+
+### Feedback - Tell us what you think
+
+You can provide feedback on the Pandemic Flu service at any time whilst on the portal, by clicking the ”Provide feedback on the Pandemic Flu service” link on the right of every page.
+
+This is important, and will help us improve the service offered.
+
+This can be used either for feedback from your own experience, or for the patient you are talking to, for example if the questions are unclear for them.
+
+![][feedback-tell-us-what-you-think]
+
+This will allow you to enter in the type of feedback, including a free text field to provide specific information.
+
+![][feedback-form]
+
+You (or the patient if it is their feedback) can choose to be contacted about this feedback, or not.
+
+If they choose to be contacted, the next page will ask for their name and contact details.
 
 
 
 
-
-
-
-
-
-
-
-
-
-[login-screen]: images/login-screen.jpg "Login Screen"
-[role-screen]: images/role-screen.jpg "Role Screen"
-[new-call-screen]: images/new-call-screen.jpg "New Call Screen"
+[login-screen]: images/cca-login.png "Login Screen"
+[role-screen]: images/cca-role-screen.png "Role Screen"
+[new-call-screen]: images/new-call-screen.png "New Call Screen"
 [cca-call-hints-opening]: images/cca-call-hints-opening.jpg "CCA Call Hints Opening"
 [cca-call-hints-tabs]: images/cca-call-hints-tabs.png "CCA Call Hints Tabs"
 [cca-select-calling-source]: images/cca-select-calling-source.jpg "CCA Select Calling Source"
 [manage-urn-button]: images/manage-urn-button.png "Manage URN Button"
-[manage-urn-screen]: images/manage-urn-screen.png "Manage URN Screen"
+[manage-urn-search-form]: images/manage-urn-search-form.png "Manage URN Search Form"
 [manage-urn-search-result]: images/manage-urn-search-result.png "Manage URN Search Result"
 [authorisation-intro]: images/authorisation-intro.png "Authorisation Introduction Text"
 [authorisation-urn]: images/authorisation-urn.png "Authorisation URN Text"
 [authorisation-collection]: images/authorisation-collection.png "Authorisation Collection Text"
-
-
+[swabbing-consent-question]: images/swabbing-consent-question.png "Swabbing Consent Question"
+[postcode-address-finder]: images/postcode-address-finder.png "Postcode Address Finder"
+[postcode-address-finder-screen2]: images/postcode-address-finder-screen2.png "Postcode Address Finder Screen 2"
+[non-authorised-assessment]: images/non-authorised-assessment.png "Non Authorised Assessment"
+[floaty-box-tabs]: images/floaty-box-tabs.png "Floaty Box"
+[exit-assessment-reason]: images/exit-assessment-reason.png "Exit Assessment Reason"
+[feedback-tell-us-what-you-think]: images/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
+[feedback-form]: images/feedback-form.png "Feedback Form"
 
 
