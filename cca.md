@@ -192,6 +192,25 @@ All URNs matching the supplied search criteria are shown.
 
 To **cancel** a URN, select the correct row in the table and click the **Cancel URN** button
 
+![][manage-urn-results-select]
+
+The next screen will prompt you to provide a reason for cancellation. The option of “Other” will prompt you to enter details in a free text box.
+
+![][cancel-urn]
+
+You will then be prompted to Confirm the cancellation of this URN:
+
+![][cancel-urn-review-details]
+
+Clicking on Proceed will cancel the URN, providing confirmation.
+
+![][cancel-urn-confirmation]
+
+You can now proceed with a fresh assessment of the patient.
+
+Clicking Restart will return you to the main screen.
+
+
 
 
 
@@ -394,6 +413,10 @@ If they choose to be contacted, the next page will ask for their name and contac
 [manage-urn-button]: images/manage-urn-button.png "Manage URN Button"
 [manage-urn-search-form]: images/manage-urn-search-form.png "Manage URN Search Form"
 [manage-urn-search-result]: images/manage-urn-search-result.png "Manage URN Search Result"
+[manage-urn-results-select]: images/manage-urn-results-select.png "Manage URN Results Select"
+[cancel-urn]: images/cancel-urn.png "Cancel URN"
+[cancel-urn-review-details]: images/cancel-urn-review-details.png "Cancel URN Review Details"
+[cancel-urn-confirmation]: images/cancel-urn-confirmation.png "Cancel URN Confirmation"
 [authorisation-intro]: images/authorisation-intro.png "Authorisation Introduction Text"
 [authorisation-urn]: images/authorisation-urn.png "Authorisation URN Text"
 [authorisation-collection]: images/authorisation-collection.png "Authorisation Collection Text"
