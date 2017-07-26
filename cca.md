@@ -6,11 +6,11 @@ title: NPFS CCA Training
 
 The National Pandemic Flu Service (NPFS) Call Centre Application has two areas of functionality which are as follows:
 
-* •	Clinical Assessment. If a caller has flu like symptoms the call centre agent can use the application to take them
+* Clinical Assessment. If a caller has flu like symptoms the call centre agent can use the application to take them
  through a series of questions to result in a clinical assessment of their condition. The outcome may be authorisation 
  of an antiviral or alternatively other care adive such as call 999, contact your GP etc 
 
-* •	Manage URN. For a patient that has already been authorised for an antiviral this functionality allow the call agent 
+* Manage URN. For a patient that has already been authorised for an antiviral this functionality allow the call agent 
 to search for details of URN if they are lost plus check the status of a URN and also cancel an authorised antiviral before 
 it has been dispensed 
 
@@ -78,6 +78,7 @@ At any time you can safely use the **training** system to become familiar with t
 Enter your unique Username and Password.  These will be supplied by your Team Leader.
 
 ![][welcome-screen]
+![][role-screen]
 
 > Your password must be changed at the first login.  Full instructions are provided later in this guide.
 >
@@ -92,8 +93,11 @@ In order to discourage easy-to-guess passwords, the new password must either be 
 >
 > The password must contain at least one number.
 >
-> The password must contain at least one special character.
+> The password must contain at least one special character (such as !,?,@,#,$,%,&,* and +)
+> 
+> A table showing a full list of special characters can be found at the following location:
 
+[Special Character List](https://www.nationalpandemicfluservice.nhs.uk/callcentre)
 
 ### Select Your User Role
 
