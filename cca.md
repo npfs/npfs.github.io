@@ -78,7 +78,6 @@ At any time you can safely use the **training** system to become familiar with t
 Enter your unique Username and Password.  These will be supplied by your Team Leader.
 
 ![][welcome-screen]
-![][role-screen]
 
 > Your password must be changed at the first login.  Full instructions are provided later in this guide.
 >
@@ -104,6 +103,8 @@ In order to discourage easy-to-guess passwords, the new password must either be 
 You may have multiple roles available.  Select the most appropriate role for the tasks that you need to complete.
 
 ![][role-screen]
+
+![][roleselect_CCA]
 
 > **Your Session** -  Confirms the username and role you are currently logged in as, as well as your login time and role once you have selected it.
 >
