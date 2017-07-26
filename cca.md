@@ -4,6 +4,16 @@ title: NPFS CCA Training
 ---
 # Call Centre Application
 
+The National Pandemic Flu Service (NPFS) Call Centre Application has two areas of functionality which are as follows:
+
+* •	Clinical Assessment. If a caller has flu like symptoms the call centre agent can use the application to take them
+ through a series of questions to result in a clinical assessment of their condition. The outcome may be authorisation 
+ of an antiviral or alternatively other care adive such as call 999, contact your GP etc 
+
+* •	Manage URN. For a patient that has already been authorised for an antiviral this functionality allow the call agent 
+to search for details of URN if they are lost plus check the status of a URN and also cancel an authorised antiviral before 
+it has been dispensed 
+
 ## Contents
 
 **[Getting Started](#getting-started)**
@@ -11,42 +21,49 @@ title: NPFS CCA Training
   * [Login Screen](#login-screen)
   * [Select Your User Role](#select-your-user-role)
   * [New Call Screen](#new-call-screen)
-  * [Select Calling Source](#select-calling-source)
   * [Call Script & Hints Panel](#call-script--hints-panel)
-
-**[Manage URN](#manage-urn)**
-
-  * [Locating a URN](#locating-a-urn)
-  * [Search Results and Cancelling a URN](#search-results-and-cancelling-a-urn)
+  * [Feedback - Tell us what you think](#feedback---tell-us-what-you-think)
+  * [Other Supporting Functionality] (#Other-Supporting-Functionality)
+  
+**[Completing a Flu Assessment] (#complete-a-flu-assessment)
 
 **[Call Opening](#call-opening)**
-
-  * [Collecting Patient Details](#collecting-patient-details)
+ * [Selecting Call Source](#selecting-call-source)
+ * [Terms of Use](#terms-of-use)
+ * [Current Location] (#current-location)
+ * [Uk or Foreign Visitor] (#uk-or-foreign-visitor)
+ * [Collecting Patient Details](#collecting-patient-details) 
 
 **[Initial Assessment](#initial-assessment)**
 
  * [\'Emergency Check\' Questions](#emergency-check-questions)
-
-
-**[Patient Data](#patient-data)**
+ * [\'Recent Travel\' Questions] (#recent-travel-questions)
+ * [\'Clinical Assessment\'Questions] (#clinical-assessment-questions)
+ 
+ **[Patient Data](#patient-data)**
 
  * [Introducing the Assessment](#introducing-the-assessment)
  * [Patient Identification](#patient-identification)
 
-**[Sample Testing Participation](#sample-testing-participation)**
-
 **[Clinical Assessment Questions](#clinical-assessment-questions)**
+
+**[Sample Testing Participation](#sample-testing-participation)**
 
 **[Assessment Results](#assessment-results)**
 
   * [Introducing the Summary](#introducing-the-summary)
   * [URN](#urn)
-  * [Collection Point Identification](#collection-point-identifications)
+  
+**[Finding a Collection Point] (#finding-a-collection-point)
+  * [Collection Point Identification Documentation](#collection-point-identifications)
   * [Searching for Collection Point](#searching-for-collection-point)
-  * [Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)
+  
+** [Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)
 
-**[Feedback - Tell us what you think](#feedback---tell-us-what-you-think)**
+**[Manage URN](#manage-urn)**
 
+  * [Search for a URN ](#search-for-a-urn)
+  * [Cancel a URN](#Cancel-a-urn)
 
 
 ## Getting Started
@@ -60,7 +77,7 @@ At any time you can safely use the **training** system to become familiar with t
 
 Enter your unique Username and Password.  These will be supplied by your Team Leader.
 
-![][login-screen]
+![][welcome-screen]
 
 > Your password must be changed at the first login.  Full instructions are provided later in this guide.
 >
