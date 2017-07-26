@@ -425,7 +425,7 @@ If they choose to be contacted, the next page will ask for their name and contac
 
 
 
-[welcome-screen]: images/welcome-screen.png "Welcome Screen"
+[welcome-screen]: images/cca/welcome-screen.png "Welcome Screen"
 [login-screen]: images/cca-login.png "Login Screen"
 [role-screen]: images/cca-role-screen.png "Role Screen"
 [new-call-screen]: images/new-call-screen.png "New Call Screen"
