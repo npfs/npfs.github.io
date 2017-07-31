@@ -211,7 +211,7 @@ In addition to feedback there is a range of other supporting functionality which
 
 Select the appropriate Calling Source from the drop down list.
 
-![][call-source]
+![][call_source]
 
 Select **Not applicable** for an ordinary call. Most calls will be registered as an ordinary call, however
 the call may be a specified call type e.g. Language Line or British Sign Language.
@@ -231,7 +231,7 @@ Select **Agree** if the caller provides confirmation that they agree with the Te
 If the caller does not accept the Terms of Use select **Disagree** which will end the assessment. A further screen will be presented that 
 needs to be read to the caller confirming why they cannot proceed and offering them the option to restart.
 
-! [][Terms_of_Use_1]
+![][Terms_of_Use_1]
 
 ### Current Location
 
@@ -247,7 +247,7 @@ The caller needs to confirm whether the patient is a UK resident or a foreign vi
 For foreign visitots, following the clinical assessment questions you will be asked to gather further official
 patient identification information.
 
-! [] [Foreign_visitor]
+![] [Foreign_visitor]
 
 Record these details accurately and confirm back with the caller.
 
@@ -526,6 +526,7 @@ If they choose to be contacted, the next page will ask for their name and contac
 [grey-box]: images/CCA/grey_box.png "Grey Floaty Box "
 [feedback-tell-us-what-you-think]: images/CCA/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
 [feedback-form]: images/CCA/feedback-form.png "Feedback Form"
+[call_source]: images/CCA/call_source.png "Call Source"
 [Terms_of_Use]: images/CCA/Terms_of_Use.png  " Terms of Use"
 [Terms_of_Use_1]: images/CCA/Terms_of_Use_1.png  " Terms of Use"
 [Foreign_visitor]: images/CCA/Foreign_Visit.png  " Foreign Visitor"
