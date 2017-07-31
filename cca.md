@@ -457,25 +457,11 @@ Each Call Centre will have a different way of managing any escalation calls so p
 
 ![][manage-urn-button]
 
-
-
-
-
-
-
-
-
-
-## Manage URN
-
-![][manage-urn-button]
-
 The Manage URN function can be used for a number of purposes:
 
 * Retrieving a previously issued URN for a caller, for example if they have forgotten it
 * Checking on the status of a previously issued URN, for example if it might have expired
 * Cancelling a URN, for example if the caller wants to complete a new assessment, as their symptoms have changed
-
 
 ### Search for a URN
 
@@ -483,17 +469,23 @@ You can find a URN in the system using either the URN itself, or by supplying a 
 
 ![][manage-urn-search-form]
 
-### Search Results and Cancelling a URN
-
 All URNs matching the supplied search criteria are shown.
+
+![][URN_search]
 
 > **Note:** It is possible and valid for multiple URNs with the same number to exist.
 >
-> Ensure that the correct URN for the caller is identified before proceeding.
+> Ensure that the correct URN for the Caller is identified before proceeding.
+>
+> To ensure that the corrct URN is selected the Caller should be asked to confirm
+>the patients Name, Date of Birth and Postcode.
 
-![][manage-urn-search-result]
+### Cancel a URN
 
-To **cancel** a URN, select the correct row in the table and click the **Cancel URN** button
+To **cancel** a URN, select the correct row in the table and select the **Cancel URN** button
+
+
+
 
 ![][manage-urn-results-select]
 
@@ -712,26 +704,6 @@ In addition to the drop-down list, there is a free-text field to enter supportin
 
 
 
-[cca-call-hints-opening]: images/cca-call-hints-opening.jpg "CCA Call Hints Opening"
-[cca-call-hints-tabs]: images/cca-call-hints-tabs.png "CCA Call Hints Tabs"
-[cca-select-calling-source]: images/cca-select-calling-source.jpg "CCA Select Calling Source"
-[manage-urn-button]: images/manage-urn-button.png "Manage URN Button"
-[manage-urn-search-form]: images/manage-urn-search-form.png "Manage URN Search Form"
-[manage-urn-search-result]: images/manage-urn-search-result.png "Manage URN Search Result"
-[manage-urn-results-select]: images/manage-urn-results-select.png "Manage URN Results Select"
-[cancel-urn]: images/cancel-urn.png "Cancel URN"
-[cancel-urn-review-details]: images/cancel-urn-review-details.png "Cancel URN Review Details"
-[cancel-urn-confirmation]: images/cancel-urn-confirmation.png "Cancel URN Confirmation"
-[authorisation-intro]: images/authorisation-intro.png "Authorisation Introduction Text"
-[authorisation-urn]: images/authorisation-urn.png "Authorisation URN Text"
-[authorisation-collection]: images/authorisation-collection.png "Authorisation Collection Text"
-[swabbing-consent-question]: images/swabbing-consent-question.png "Swabbing Consent Question"
-[postcode-address-finder]: images/postcode-address-finder.png "Postcode Address Finder"
-[postcode-address-finder-screen2]: images/postcode-address-finder-screen2.png "Postcode Address Finder Screen 2"
-[non-authorised-assessment]: images/non-authorised-assessment.png "Non Authorised Assessment"
-[floaty-box-tabs]: images/floaty-box-tabs.png "Floaty Box"
-[exit-assessment-reason]: images/exit-assessment-reason.png "Exit Assessment Reason"
-[feedback-tell-us-what-you-think]: images/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
-[feedback-form]: images/feedback-form.png "Feedback Form"
+[
 
 
