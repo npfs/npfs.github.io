@@ -443,11 +443,11 @@ There is also a direction link to googlemaps to assist in directing the Caller t
 
 If a user ends the call, you should press the **End Call** button in the grey “floaty box”.
 
-![][End-call]
+![][End_call]
 
 The next screen will allow you to choose a reason for ending call and exiting the assessment. 
 
-![][Exit-assessment]
+![][Exit_assessment]
 
 In addition to the drop-down list, there is a free-text field to enter supporting information.
 
@@ -484,9 +484,6 @@ All URNs matching the supplied search criteria are shown.
 
 To **cancel** a URN, select the correct row in the table and select the **Cancel URN** button
 
-
-
-
 ![][manage-urn-results-select]
 
 The next screen will prompt you to provide a reason for cancellation. The option of “Other” will prompt you to enter details in a free text box.
@@ -499,7 +496,7 @@ You will then be prompted to Confirm the cancellation of this URN:
 
 Clicking on Proceed will cancel the URN, providing confirmation.
 
-![][cancel-urn-confirmation]
+![][URN_cancel_confirm]
 
 You can now proceed with a fresh assessment of the patient.
 
