@@ -231,7 +231,7 @@ Select **Agree** if the caller provides confirmation that they agree with the Te
 If the caller does not accept the Terms of Use select **Disagree** which will end the assessment. A further screen will be presented that 
 needs to be read to the caller confirming why they cannot proceed and offering them the option to restart.
 
-![][Terms_of_Use_1]
+![][decline]
 
 ### Current Location
 
@@ -279,7 +279,7 @@ Whilst they are written as 2 whole (sets of) questions, pause after each sub-que
 
 If the Caller answers **\'yes\'** to any of these questions, record the answer and move on, you will advise them to contact 999.
 
-Click on \'Restart\' to return to start screen ready for your next call.
+Click on **\'Restart\'** to return to start screen ready for your next call.
 
 If the caller answers no to all of the \'emergency check\' questions you will proceed to the next part of the assessment.
 
@@ -290,7 +290,7 @@ The caller needs to confirm whether the patient has been abroard reecently and v
 
 Recent Travel, if the caller cannot answer this question without help use the 'travel advice by country' link to help.
 
-If the Caller answers \'yes\' to any of these questions, record the answer and move on, you will advise them to contact their GP and 999 if their condition deteriorates.
+If the Caller answers **\'yes\'** to any of these questions, record the answer and move on, you will advise them to contact their GP and 999 if their condition deteriorates.
 
 Click on \'Restart\' to return to start screen ready for your next call.
 
@@ -303,26 +303,141 @@ These questions must be read from the screen **word-for-word.**
 
  If the Caller struggles to understand, you may use the alternative wording provided in the guidance panel. 
  
-If the Caller answers \'yes\' to any of these questions, record the answer and move on, you will advise them to contact their GP Urgently for further assessment
+If the Caller answers **\'yes\'** to any of these questions, record the answer and move on, you will advise them to contact their GP Urgently for further assessment
 
-Click on \'Restart\' to return to start screen ready for your next call.
+Click on **\'Restart\'** to return to start screen ready for your next call.
 
 If the caller answers no to all of the 'clinical assessment' questions you will proceed to the next part of the assessment.
 
 
+## Patient Data
+
+### Introducing the Assessment
+
+Following the Emergency Check questions, you will gather further Patient identification information.  Introduce these questions by saying: **\"I now need to find out some more details about the Patient.\"**
+
+> **Note:** The caller may not be the patient.
+
+Recent Travel if the caller cannot answer this question without help use the \'travel advice by country\' link to help.
+
+
+### Patient Identification
+
+The First name, Surname and Postcode need to be gathered for the patient. The Gender and Date of Birth will be pre-populated with data entered previously
+
+![][Patient_ID] 
+
+Gather these details accurately, filling out all the boxes on the screen and confirming back with the caller.  You must check spellings to ensure accuracy, using the phonetic alphabet where appropriate
+
+The phonetic alphabet is available on every page in the grey floating panel on the right hand side
+
+Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued).
+
+If you make any errors in entering the information you must use the **\'Undo\'** feature to return to the necessary page to correct the information while the caller is still talking to you.
+
+
+## Clinical Assessment Questions
+
+These questions must be read from the screen **word-for-word**.  Use pauses to allow the Caller to think and respond.  If the Caller struggles to understand, you may use the alternative wording provided in the grey floating panel on the right.
+
+Allow the caller time to respond to each question, do not click on a button until they have confirmed their answer to each question.
+
+For the flu symptom question, pause to identify whether the Patient has a high temperature **before** moving on to read out symptoms.
+
+For the questions that follow, if the Caller answers \'yes\' to one part, record the answer and move on.
 
 
 
+## Sample Testing Participation
+
+### Overview
+
+The **Swabbing** allows Public Health England to collect swabs from a sample of the infected population to provide data for analysis.
+
+This page will only appear if the caller has been assessed and they are going to be provided with an unique reference number for an anti-viral.
+
+![][swabbing-consent-question]
+
+If the caller agrees to participate in sample testing they must provide contact details including address and telephone number. 
+Address can be input via postcode search or entered manually. 
+
+The address search will be prepopulated with the Postcode entered earlier in the assessment.This can be changed if required.
+
+![][Address-lookup]
+
+If the **Find Address** is selected another box will appear which will have a dropdown menu with all addresses that fall within the postcode entered.
+The correct address should be confirmed with the call and **Confirm address** selected.
+
+![][Address-confirm]
+
+If the address cannot be found the callers address can be entered manually following the **Enter address manually** link and populating the following fields with 
+information supplied by the caller.
+
+![][Address-manual]
+
+
+## Assessment Results
+
+### Introducing the Summary
+
+
+Follow the guidance in the grey floating panel on the right hand side.
+
+Instead of reading the on-screen text at the beginning of the assessment summary, you should say:
+**\"This is the end of the assessment. Please listen to the information I am about to provide carefully and write down the key points.\"**
+
+![][Assessment]
+
+** Clinical Advice is higlighted and also has sidebars for emphasis.
+These sections should be read **word-for-word** - remember the Caller needs to be clear what they should do and when
+
+Pause in between each paragraph to allow the Caller to take in the information and make notes
+
+**Antiviral Authorisation** - read this section **word-for-word**
+
+![][URN]
+
+
+Provide authorisation number carefully, using phonetic alphabet for \'alpha\' characters, ask caller to repeat it back, checking each character - repeat process until
+ they have it recorded correctly
+
+> If the patient says they don\'t have a flu friend, remind them it can be anyone (family member, friend, neighbour, work colleague, etc)
+
+
+For assessments that result in a 'no antiviral' outcome, Agent scripting is as follows:
+
+"Based on the answers provided, the Patient has not been recommended for an antiviral now.
+Not all assessments will result in the provision of an antiviral. In this case, the Patient should follow the clinical advice I am going to read out to you.”
 
 
 
+## Finding a Collection Point
 
+### Collection Point Identification Documentation
 
+Make sure Caller is aware that ID is required for both the flu friend **AND** the patient in order to collect the antivirals. Accepted forms of identification 
+are shown on the authorisation page
 
+Additions forms of ID can be seen by selecting **View others form of Identification**.
 
+When reading out items from the list, start at an appropriate place for the Caller, e.g. Passports for overseas visitors, 
+and stop once they have indicated they have noted items they can access/produce
 
+### Searching for a Collection Point
 
+To help the caller to identify a collection point that is convenient for them, select **Show nearest collection points**.
 
+The Collection Point Finder will automatically search for the 5 nearest Collection Points based on the postcode provided for the assessment.
+
+![][Collection_point_map]
+
+You can manually change the postcode / enter a new postcode / Town / County to locate a Collection Point that is convenient for the caller / flu friend
+
+The grey floating panel provides additional help / text if you are struggling to find a Collection Point local to the caller
+
+By clicking on the name of the Collection Point in the list, full details are provided for you to relay to the Caller.
+
+There is also a direction link to googlemaps to assist in directing the Caller to the nearest collection point.
 
 
 
@@ -388,19 +503,7 @@ Clicking Restart will return you to the main screen.
 
 
 
-## Initial Assessment
 
-### \'Emergency Check\' Questions
-
-These questions must be read from the screen word-for-word after you have delivered the introduction.  If the Caller struggles to understand, you may use the alternative wording provided in the guidance panel.
-
-Whilst they are written as 2 whole (sets of) questions, pause after each sub-question to get a response.
-
-If the Caller answers \'yes\' to any of these questions (2 pages), record the answer and move on, you will advise them to contact 999.
-
-Click on \'Exit\' to return to start screen ready for your next call.
-
-If the caller answers no to all of the \'emergency check\' questions (2 pages) you will proceed to the next part of the assessment.
 
 
 
@@ -581,16 +684,17 @@ If they choose to be contacted, the next page will ask for their name and contac
 [feedback-form]: images/CCA/feedback-form.png "Feedback Form"
 [call_source]: images/CCA/call_source.png "Call Source"
 [Terms_of_Use]: images/CCA/Terms_of_Use.png  " Terms of Use"
-[Terms_of_Use_1]: images/CCA/Terms_of_Use_1.png  " Terms of Use"
+[Decline]: images/CCA/Decline.png  " Decline"
 [Foreign_visitor]: images/CCA/Foreign_Visit.png  " Foreign Visitor"
 [Patient_Details]: images/CCA/Patient_Details.png " Patient Details"
-
-
-
-
-
-
-
+[Patient_ID]: images/CCA/Patient_ID.png " Patient ID"
+[swabbing-consent-question]: images/CCA/swabbing-consent-question.png "Swabbing Consent Question"
+[Address-lookup]: images/CCA/Address_lookup.png "Address Lookup"
+[Address-confirm]: images/CCA/Address_confirm.png "Address Confirm"
+[Address-manual]: images/CCA/Address_manual.png "Address Manual"
+[Assessment]: images/CCA/Assessment.png "Assessment Results"
+[URN]:images/CCA/URN.png "URN" 
+[Collection_point_map]: images/CCA/Collection_map.png "Collection Point Map"
 
 
 
