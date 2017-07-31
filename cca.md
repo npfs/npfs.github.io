@@ -143,11 +143,11 @@ Re-apply the previously undone function and move forward
 
 Allows you to quickly end the assessment and return to the start, for example if the caller no longer wants to continue
 
+![][grey-box]
+
 #### Tabs
 
 The individual functions are accessible by selecting the appropriate tab at the top of the box.
-
-![][grey-box]
 
 ##### What To Do If\...
 
@@ -201,6 +201,61 @@ In addition to feedback there is a range of other supporting functionality which
 * British Sign Language interpreter service
 * Collection point finder - to allow the nearest collection point to be located without having to complete an assessment
 * Supplementary Pandemic Flu information. A separate link is provided for information on flu symptoms for each county
+
+
+## 2.Completing a Flu Assessment
+
+## Call Opening
+
+### Selecting Calling Source
+
+Select the appropriate Calling Source from the drop down list.
+
+![][call-source]
+
+Select **Not applicable** for an ordinary call. Most calls will be registered as an ordinary call, however
+the call may be a specified call type e.g. Language Line or British Sign Language.
+
+Use **Other - please specify** for any other type of call, or a misdirected call, e.g. caller wanted NHS111.
+It is mandatory to add a note of explanation before closing the call.
+
+### Terms of Use
+
+The Call Center Advisor should read the Terms of Use to the caller. The caller needs to agree to the Terms of Use before the 
+assessment can continue.
+
+![][Terms_of_Use]
+
+Select **Agree** if the caller provides confirmation that they agree with the Terms of Use and wish to proceed with the assessment.
+
+If the caller does not accept the Terms of Use select **Disagree** which will end the assessment. A further screen will be presented that 
+needs to be read to the caller confirming why they cannot proceed and offering them the option to restart.
+
+! [][Terms_of_Use_1]
+
+### Current Location
+
+The caller needs to confirm which UK country the patient is located at the moment.
+
+This is important as all countries may not be NPFS at the same time. The outcome of the clinical advice may also
+differ by UK country.
+
+### Uk or Foreign Visitor
+
+The caller needs to confirm whether the patient is a UK resident or a foreign visitor.
+
+For foreign visitots, following the clinical assessment questions you will be asked to gather further official
+patient identification information.
+
+! [] [Foreign_visitor]
+
+Record these details accurately and confirm back with the caller.
+
+You must check spellings to ensure accuracy using the phonetic alphabet where appropriate.
+
+
+### Collecting Patient Details
+
 
 
 
@@ -261,10 +316,11 @@ You can now proceed with a fresh assessment of the patient.
 Clicking Restart will return you to the main screen.
 
 
-
-
-
 ## Call Opening
+
+
+
+
 
 ### Collecting Patient Details
 
@@ -453,12 +509,32 @@ If they choose to be contacted, the next page will ask for their name and contac
 
 
 
+
+
+
+
+
+
+
+
+
+
+
 [welcome-screen]: images/CCA/welcome-screen.png "Welcome Screen"
 [roleselect-CCA]: images/CCA/roleselect_CCA.png "Role Screen"
 [new-call-screen]: images/CCA/New_Call.png "New Call Screen"
 [grey-box]: images/CCA/grey_box.png "Grey Floaty Box "
 [feedback-tell-us-what-you-think]: images/CCA/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
 [feedback-form]: images/CCA/feedback-form.png "Feedback Form"
+[Terms_of_Use]: images/CCA/Terms_of_Use.png  " Terms of Use"
+[Terms_of_Use_1]: images/CCA/Terms_of_Use_1.png  " Terms of Use"
+[Foreign_visitor]: images/CCA/Foreign_Visit.png  " Foreign Visitor"
+
+
+
+
+
+
 
 
 
