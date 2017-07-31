@@ -106,7 +106,7 @@ In order to discourage easy-to-guess passwords, the new password must either be 
 You may have multiple roles available.  Select the most appropriate role for the tasks that you need to complete.
 
 
-![][roleselect_CCA]
+![][roleselect-CCA]
 
 > **Your Session** -  Confirms the username and role you are currently logged in as, as well as your login time and role once you have selected it.
 >
