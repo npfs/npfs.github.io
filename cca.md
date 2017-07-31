@@ -4,6 +4,10 @@ title: NPFS CCA Training
 ---
 # Call Centre Application
 
+## Contents
+
+## 1.Introduction
+
 The National Pandemic Flu Service (NPFS) Call Centre Application has two areas of functionality which are as follows:
 
 * Clinical Assessment. If a caller has flu like symptoms the call centre agent can use the application to take them
@@ -14,7 +18,6 @@ The National Pandemic Flu Service (NPFS) Call Centre Application has two areas o
 to search for details of URN if they are lost plus check the status of a URN and also cancel an authorised antiviral before 
 it has been dispensed 
 
-## Contents
 
 **[Getting Started](#getting-started)**
 
@@ -102,7 +105,6 @@ In order to discourage easy-to-guess passwords, the new password must either be 
 
 You may have multiple roles available.  Select the most appropriate role for the tasks that you need to complete.
 
-![][role-screen]
 
 ![][roleselect_CCA]
 
@@ -114,27 +116,14 @@ You may have multiple roles available.  Select the most appropriate role for the
 
 ### New Call Screen
 
+This screen allows the Call Centre Advisor to begin a clinical assessment for a caller by selecting **Start Now** or
+alternatively aceees the Manage URN finctionality by selecting **Manage URN**
+
 ![][new-call-screen]
-
-**Start Now** - Begin a clinical assessment for a caller
-
-
-
-### Select Calling Source
-
-Select the appropriate Calling Source for the call from the drop down list.
-
-![][cca-select-calling-source]
-
-Use **Not applicable** if the call is from none of the listed options. This will be used in most cases, because the caller is calling for a flu assessment for themselves, or on behalf of someone else.
-
-User **Other** if **not** British Sign Language, Language Line, Textphone, to record the fact that you are taking a call but not related to a flu assessment.
-
 
 
 ### Call Script & Hints Panel
 
-![][cca-call-hints-opening]
 
 The **Call Script & Hints** (a.k.a. Grey Floaty Box) will appear on every screen from this point onwards.  It has a number of important functions to help with the assessment process.
 
@@ -158,21 +147,19 @@ Allows you to quickly end the assessment and return to the start, for example if
 
 The individual functions are accessible by selecting the appropriate tab at the top of the box.
 
-![][cca-call-hints-tabs]
-
-##### Guidance
-
-This will provide help and advice for each screen of the assessment process.  Refer to this information if you need any help completing the information on individual screens.
-
-##### Phonetic Alphabet
-
-Provides a quick reference to the phonetic alphabet.  This is useful for spelling out and confirming words and the URN over the telephone.
+![][grey-box]
 
 ##### What To Do If\...
 
 Scenarios and recommended responses are given to common issues here.
 
-**Useful Phrases** are also included further below, and can be used to deal with some difficult enquiries.
+##### Useful Phrases
+
+These phrases can be used to deal with some difficult enquiries
+
+##### Guidance
+
+This will provide help and advice for each screen of the assessment process.  Refer to this information if you need any help completing the information on individual screens.
 
 ##### Notes
 
@@ -181,6 +168,47 @@ Use this to record any important information that might need to be recorded outs
 ##### Answers
 
 Callers answers are recorded here.  This is updated with each answer selected on a page as you progress through the assessment.
+
+##### Phonetic Alphabet
+
+Provides a quick reference to the phonetic alphabet.  This is useful for spelling out and confirming words and the URN over the telephone.
+
+
+### Feedback - Tell us what you think
+
+You can provide feedback on the Pandemic Flu service at any time whilst on the portal, by clicking the ”Provide feedback on the Pandemic Flu service” link on the right of every page.
+
+This is important, and will help us improve the service offered.
+
+This can be used either for feedback from your own experience, or for the patient you are talking to, for example if the questions are unclear for them.
+
+![][feedback-tell-us-what-you-think]
+
+This will allow you to enter in the type of feedback, including a free text field to provide specific information.
+
+![][feedback-form]
+
+You (or the patient if it is their feedback) can choose to be contacted about this feedback, or not.
+
+If they choose to be contacted, the next page will ask for their name and contact details.
+
+
+### Other Supporting Functionality
+
+In addition to feedback there is a range of other supporting functionality which is available throughout any assessment these include:
+
+* Language Support - the portal can be used in english or welsh by selecting the appropriate link.
+* British Sign Language interpreter service
+* Collection point finder - to allow the nearest collection point to be located without having to complete an assessment
+* Supplementary Pandemic Flu information. A separate link is provided for information on flu symptoms for each county
+
+
+
+
+
+
+
+
 
 
 
@@ -426,9 +454,17 @@ If they choose to be contacted, the next page will ask for their name and contac
 
 
 [welcome-screen]: images/CCA/welcome-screen.png "Welcome Screen"
-[login-screen]: images/cca-login.png "Login Screen"
-[role-screen]: images/cca-role-screen.png "Role Screen"
-[new-call-screen]: images/new-call-screen.png "New Call Screen"
+[roleselect-CCA]: images/CCA/roleselect_CCA.png "Role Screen"
+[new-call-screen]: images/CCA/New_Call.png "New Call Screen"
+[grey-box]: images/CCA/grey_box.png "Grey Floaty Box "
+[feedback-tell-us-what-you-think]: images/CCA/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
+[feedback-form]: images/CCA/feedback-form.png "Feedback Form"
+
+
+
+
+
+
 [cca-call-hints-opening]: images/cca-call-hints-opening.jpg "CCA Call Hints Opening"
 [cca-call-hints-tabs]: images/cca-call-hints-tabs.png "CCA Call Hints Tabs"
 [cca-select-calling-source]: images/cca-select-calling-source.jpg "CCA Select Calling Source"
