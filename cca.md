@@ -247,7 +247,7 @@ The caller needs to confirm whether the patient is a UK resident or a foreign vi
 For foreign visitots, following the clinical assessment questions you will be asked to gather further official
 patient identification information.
 
-![] [Foreign_visitor]
+![][Foreign_visitor]
 
 Record these details accurately and confirm back with the caller.
 
@@ -256,9 +256,20 @@ You must check spellings to ensure accuracy using the phonetic alphabet where ap
 
 ### Collecting Patient Details
 
+Introduce the first few questions with the phrase **\"I now need to find out some details about the Patient\"**.
+
+![][Patient_Details] 
 
 
 
+
+
+
+Gather these details accurately, filling out all the boxes on the screen and confirming back with the Caller.
+
+Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued).
+
+> **Remember** - getting the date of birth right is really important for correct dosage calculation - a valid date must be input for you to be able to click \'continue\'.
 
 
 
@@ -530,7 +541,7 @@ If they choose to be contacted, the next page will ask for their name and contac
 [Terms_of_Use]: images/CCA/Terms_of_Use.png  " Terms of Use"
 [Terms_of_Use_1]: images/CCA/Terms_of_Use_1.png  " Terms of Use"
 [Foreign_visitor]: images/CCA/Foreign_Visit.png  " Foreign Visitor"
-
+[Patient_Details]: images/CCA/Patient_Details.png " Patient Details"
 
 
 
