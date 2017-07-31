@@ -261,15 +261,73 @@ Introduce the first few questions with the phrase **\"I now need to find out som
 ![][Patient_Details] 
 
 
-
-
-
-
 Gather these details accurately, filling out all the boxes on the screen and confirming back with the Caller.
 
 Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued).
 
 > **Remember** - getting the date of birth right is really important for correct dosage calculation - a valid date must be input for you to be able to click \'continue\'.
+
+
+
+## Initial Assessment
+
+### \'Emergency Check\' Questions
+
+These questions must be read from the screen **word-for-word** after you have delivered the introduction.  If the Caller struggles to understand, you may use the alternative wording provided in the guidance panel.
+
+Whilst they are written as 2 whole (sets of) questions, pause after each sub-question to get a response.
+
+If the Caller answers **\'yes\'** to any of these questions, record the answer and move on, you will advise them to contact 999.
+
+Click on \'Restart\' to return to start screen ready for your next call.
+
+If the caller answers no to all of the \'emergency check\' questions you will proceed to the next part of the assessment.
+
+
+### \'Recent Travel\' Questions
+
+The caller needs to confirm whether the patient has been abroard reecently and visited any country listed.
+
+Recent Travel, if the caller cannot answer this question without help use the 'travel advice by country' link to help.
+
+If the Caller answers \'yes\' to any of these questions, record the answer and move on, you will advise them to contact their GP and 999 if their condition deteriorates.
+
+Click on \'Restart\' to return to start screen ready for your next call.
+
+If the caller answers no to all of the 'recent travel ' questions you will proceed to the next part of the assessment.
+
+
+### \'Clinical Assessment\' Questions
+
+These questions must be read from the screen **word-for-word.**
+
+ If the Caller struggles to understand, you may use the alternative wording provided in the guidance panel. 
+ 
+If the Caller answers \'yes\' to any of these questions, record the answer and move on, you will advise them to contact their GP Urgently for further assessment
+
+Click on \'Restart\' to return to start screen ready for your next call.
+
+If the caller answers no to all of the 'clinical assessment' questions you will proceed to the next part of the assessment.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -326,22 +384,6 @@ You can now proceed with a fresh assessment of the patient.
 
 Clicking Restart will return you to the main screen.
 
-
-## Call Opening
-
-
-
-
-
-### Collecting Patient Details
-
-Introduce the first few questions with the phrase **\"I now need to find out some details about the Patient\"**.
-
-Gather these details accurately, filling out all the boxes on the screen and confirming back with the Caller.
-
-Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued).
-
-> **Remember** - getting the date of birth right is really important for correct dosage calculation - a valid date must be input for you to be able to click \'continue\'.
 
 
 
