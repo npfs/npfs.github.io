@@ -439,9 +439,23 @@ By clicking on the name of the Collection Point in the list, full details are pr
 
 There is also a direction link to googlemaps to assist in directing the Caller to the nearest collection point.
 
+## Ending the Call Mid-Assessment
 
+If a user ends the call, you should press the **End Call** button in the grey “floaty box”.
 
+![][End-call]
 
+The next screen will allow you to choose a reason for ending call and exiting the assessment. 
+
+![][Exit-assessment]
+
+In addition to the drop-down list, there is a free-text field to enter supporting information.
+
+Each Call Centre will have a different way of managing any escalation calls so please refer to local guidance.
+
+## 3.Manage URN
+
+![][manage-urn-button]
 
 
 
@@ -463,7 +477,7 @@ The Manage URN function can be used for a number of purposes:
 * Cancelling a URN, for example if the caller wants to complete a new assessment, as their symptoms have changed
 
 
-### Locating a URN
+### Search for a URN
 
 You can find a URN in the system using either the URN itself, or by supplying a post code, date of birth and gender.
 
@@ -645,23 +659,6 @@ In addition to the drop-down list, there is a free-text field to enter supportin
 ![][exit-assessment-reason]
 
 
-### Feedback - Tell us what you think
-
-You can provide feedback on the Pandemic Flu service at any time whilst on the portal, by clicking the ”Provide feedback on the Pandemic Flu service” link on the right of every page.
-
-This is important, and will help us improve the service offered.
-
-This can be used either for feedback from your own experience, or for the patient you are talking to, for example if the questions are unclear for them.
-
-![][feedback-tell-us-what-you-think]
-
-This will allow you to enter in the type of feedback, including a free text field to provide specific information.
-
-![][feedback-form]
-
-You (or the patient if it is their feedback) can choose to be contacted about this feedback, or not.
-
-If they choose to be contacted, the next page will ask for their name and contact details.
 
 
 
@@ -694,7 +691,23 @@ If they choose to be contacted, the next page will ask for their name and contac
 [Address-manual]: images/CCA/Address_manual.png "Address Manual"
 [Assessment]: images/CCA/Assessment.png "Assessment Results"
 [URN]:images/CCA/URN.png "URN" 
-[Collection_point_map]: images/CCA/Collection_map.png "Collection Point Map"
+[Collection_point_map]: images/CCA/Collection_point_map.png "Collection Point Map"
+[End_call]: images/CCA/End_call.png "End Call"
+[Exit_assessment]: images/CCA/Exit_Assessment.png "Exit Assessment"
+[manage-urn-button]: images/CCA/manage-urn-button.png "Manage URN Button"
+[manage-urn-search-form]: images/CCA/manage-urn-search-form.png "Manage URN Search Form"
+[URN_search]: images/CCA/URN_search.png "URN Search"
+[URN_cancel_details]: images/CCA/URN_cancel_details.png "URN cancellation details"
+[URN_cancel_confirm]: images/CCA/URN_cencel_confirm.png "URN cancellation confirmation"
+
+
+
+
+
+
+
+
+
 
 
 
