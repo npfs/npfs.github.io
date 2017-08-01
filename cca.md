@@ -231,7 +231,7 @@ Select **Agree** if the caller provides confirmation that they agree with the Te
 If the caller does not accept the Terms of Use select **Disagree** which will end the assessment. A further screen will be presented that 
 needs to be read to the caller confirming why they cannot proceed and offering them the option to restart.
 
-![][decline]
+![][Decline]
 
 ### Current Location
 
@@ -404,13 +404,6 @@ Provide authorisation number carefully, using phonetic alphabet for \'alpha\' ch
 > If the patient says they don\'t have a flu friend, remind them it can be anyone (family member, friend, neighbour, work colleague, etc)
 
 
-For assessments that result in a 'no antiviral' outcome, Agent scripting is as follows:
-
-"Based on the answers provided, the Patient has not been recommended for an antiviral now.
-Not all assessments will result in the provision of an antiviral. In this case, the Patient should follow the clinical advice I am going to read out to you.”
-
-
-
 ## Finding a Collection Point
 
 ### Collection Point Identification Documentation
@@ -422,6 +415,18 @@ Additions forms of ID can be seen by selecting **View others form of Identificat
 
 When reading out items from the list, start at an appropriate place for the Caller, e.g. Passports for overseas visitors, 
 and stop once they have indicated they have noted items they can access/produce
+
+> For assessments that result in a \'no antiviral\' outcome, Agent scripting is as follows:
+>
+> *"Based on the answers provided, the Patient has **not** been recommended for an antiviral now.*
+>
+> *Not all assessments will result in the provision of an antiviral. In this case, the Patient should follow the clinical advice I am going to read out to you."*
+
+
+Here is an example from an assessment that reaches an end-point where an anti-viral has not been recommended. Depending on the assessment, other information may also appear to advise the caller.
+
+![][non-authorised-assessment]
+
 
 ### Searching for a Collection Point
 
@@ -484,7 +489,6 @@ All URNs matching the supplied search criteria are shown.
 
 To **cancel** a URN, select the correct row in the table and select the **Cancel URN** button
 
-![][manage-urn-results-select]
 
 The next screen will prompt you to provide a reason for cancellation. The option of “Other” will prompt you to enter details in a free text box.
 
@@ -492,9 +496,9 @@ The next screen will prompt you to provide a reason for cancellation. The option
 
 You will then be prompted to Confirm the cancellation of this URN:
 
-![][cancel-urn-review-details]
+![][urn-cancel-details]
 
-Clicking on Proceed will cancel the URN, providing confirmation.
+Clicking on **Proceed** will cancel the URN, providing confirmation.
 
 ![][URN_cancel_confirm]
 
@@ -557,7 +561,7 @@ Collection Point Finder will automatically search for the 5 nearest Collection P
 [feedback-form]: images/CCA/feedback-form.png "Feedback Form"
 [call_source]: images/CCA/call_source.png "Call Source"
 [Terms_of_Use]: images/CCA/Terms_of_Use.png  " Terms of Use"
-[Decline]: images/CCA/Decline.png  " Decline"
+[Decline]: images/CCA/decline.png  " Decline"
 [Foreign_visitor]: images/CCA/Foreign_Visit.png  " Foreign Visitor"
 [Patient_Details]: images/CCA/Patient_Details.png " Patient Details"
 [Patient_ID]: images/CCA/Patient_ID.png " Patient ID"
@@ -567,12 +571,14 @@ Collection Point Finder will automatically search for the 5 nearest Collection P
 [Address-manual]: images/CCA/Address_manual.png "Address Manual"
 [Assessment]: images/CCA/Assessment.png "Assessment Results"
 [URN]:images/CCA/URN.png "URN" 
+[non-authorised-assessment] :images/CCA/non-authorised-assessment.png "Non Authorised Assessment"
 [Collection_point_map]: images/CCA/Collection_point_map.png "Collection Point Map"
 [End_call]: images/CCA/End_call.png "End Call"
 [Exit_assessment]: images/CCA/Exit_Assessment.png "Exit Assessment"
 [manage-urn-button]: images/CCA/manage-urn-button.png "Manage URN Button"
 [manage-urn-search-form]: images/CCA/manage-urn-search-form.png "Manage URN Search Form"
 [URN_search]: images/CCA/URN_search.png "URN Search"
+[cancel_URN : images/CCA/cancel_urn.png "Cancel URN"
 [URN_cancel_details]: images/CCA/URN_cancel_details.png "URN cancellation details"
 [URN_cancel_confirm]: images/CCA/URN_cencel_confirm.png "URN cancellation confirmation"
 
