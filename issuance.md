@@ -33,7 +33,7 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
 ** Recover URN(#recover-urn)**
 
 ## 4. URN Status
-**[URN status](#urn-status)**
+** [URN status](#urn-status)**
 
  * [URN Issued](#urn-issued)
  * [URN Cancelled](#urn-cancelled)
@@ -42,7 +42,7 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
 
 ## 5. Issue with Prescription, FP10SS or Voucher
 
-## 6. Identification of Collecting Person
+## 6. **[Identification of Collecting Person](#identification-of-collecting-person)**
 
 * [Patient Identification](#patient-identification)
 * [Proxy Identification](#proxy-identification)
