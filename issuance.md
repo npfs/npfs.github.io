@@ -46,8 +46,7 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
 **[Patient Identification](#patient-identification)**
 **[Proxy Identification](#proxy-identification)**
 
-
-  
+ 
 ## Getting Started
 
 Open this link to access the NPFS Issuance Portal [www.nationalpandemicfluservice.nhs.uk/issuance](https://www.nationalpandemicfluservice.nhs.uk/issuance).  
@@ -134,22 +133,153 @@ In addition to feedback there is a range of other supporting functionality which
 * Supplementary Pandemic Flu Information. A separate link is provided for information on flu symptoms for each country.
 
 
+## URN Lookup
+
+This option should be used if the person collecting the antiviral is able to present the URN number at the collection point.
+Enter the URN that the person brings with them into the URN box and select **search**.
+
+![][urn-search]
+
+Following **Search** the details of the URN will be retrieved.
+
+![][urn-retrieve]
+
+### Duplicate URN
+
+On rare occasions a duplicate URN may be issued by the NPFS system and more than one URN may be retrieved as a result of a URN Lookup. 
+
+![][duplicate-urn]
+
+If this occurs, the demographic details of the patient will be displayed at the point of searching for a URN.
+You must select the record associated with the person attending for issuance - use the ID they have with them to confirm this.
 
 
+## Recover URN
+
+This option should be used if the person collecting the antivirals is not able to present the URN at the collection point. The URN can be recovered by searching on patient demographics.
+
+Select **Recover URN** you will then be presented with the following screen. You should enter the postcode, birth date and gender for the patient which are mandatory fields. 
+
+![][urn-recover]
+
+Selecting **search** will recover the URN 
+
+![][urn-recover-result]
+
+It is important to check the patient details of the recovered URN.
 
 
+## URN Status
+
+When a URN is retrieved (either via URN Lookup or Recover URN) the status of the URN may be displayed such as Issued, expired or cancelled. 
+
+The status will also be shown as a coloured label next to the URN number. The date of expiry, cancellation or issue can also be seen by 
+hovering the mouse over the label.
+
+If no label is shown the URN is valid and the antiviral can be issued.
+
+### URN Issued
+
+Each URN is only able to be used to collect one dose of antivirals - this is important for patient safety
+
+If a URN has already been issued (i.e. antivirals collected) this will be shown by a coloured label next to the URN when you conduct a search on the system 
+(either via URN Lookup or Recover URN). 
+
+The date of issuance will also be displayed.
+
+If the URN has been issued you will not be able to issue the antivirals
+
+![][urn-issued]
+
+### URN Cancelled
+
+A previously issued URN may have been cancelled this may be due to a change of symptoms, an underlying health condition becoming apparent or some other reason.
+
+If a URN has been cancelled this will be shown by a coloured label next to the URN when you perform a search (either via URN Lookup or Recover URN). 
+The date of cancellation will be also displayed.
+
+If a URN has been cancelled you will not be able to issue the antivirals
+
+![][urn-cancelled]
+
+### URN Expired
+
+Each URN is only valid for 7 days - this is identified at the time of the completed assessment and is important for patient safety
+
+If a URN has expired this will be shown by a coloured label next to the URN when you perform a search (either via URN Lookup or Recover URN). 
+The date of expiry will be also displayed.
+
+If a URN has expired you will not be able to issue the antivirals.
+
+INPUT DIAGRAM
+
+### URN about to Expire
+
+Each URN will expire after 7 days - this is identified at the time of the completed assessment and is important for patient safety.
+
+If the URN is within 24 hours of the expiry date it will be shown by a coloured label next to the URN when you conduct a search on the system (either via URN Lookup or Recover URN)
+
+The actual date of expiry can be seen by hovering the mouse over the expires soon label.
+
+If a URN is marked expires soon you will be able to issue antivirals.
+
+![][urn-about-to-expire]
 
 
+## Issue with Prescription. FP10SS or Voucher
 
+If the collector attends the collection point with a prescription or a voucher then antivirals can be issued.
 
+[issuance-voucher]
 
+This can be done be selecting the **Issue by Voucher** button.
 
+The collector of the antiviral will still need to provide evidence of identification. Following Issue by voucher you will be presented with the following additional fields
+that need to be populated with details of the voucher.
 
+## Identification of Collecting Person
 
+Proof of identification must be provided for the patient who has been authorised for the antiviral. In addition if the antiviral is to be collected by a proxy (flu friend) they must 
+also provide proof of identification.
 
+If identification is not provided the antiviral cannot be issued. The need for identification evidence is stated during the assessment process.
 
+## Patient Identification
 
+Following retrieval of the URN the verification of the identity of the patient is mandatory.
 
+You will be provided with the following field.
+
+![][patient-id]
+
+You should use the drop down menu to input the form of identification that has been provided to verify the patient’s identity and select **Continue**.
+
+If it is the patient collecting the antiviral for themselves then **Patient** should be selected followed by **Continue**.
+
+![][select-patient]
+
+You will then be presented with confirmation of the antiviral and dose to be issued plus be required to enter the dispense reference (e.g. product, batch or serial number).
+
+![][urn-dispense]
+
+Then select **Finish** to complete the issuance with the option to start a new search
+
+![][issuance-complete]
+
+## Proxy Identification
+
+If the antiviral is to be collected by a proxy (flu friend) not the patient then additional proof of identification needs to be recorded.
+
+![][proxy-id]
+
+Select proxy and the **Continue**.
+
+You will then be required to populate the following details regarding the proxy collecting the antiviral on behalf of the patient. This includes the proof of identification 
+rovided by the proxy.
+
+![][proxy-details]
+
+Following population of the Proxy details you will be asked to enter the dispense reference before completing the issuance.
 
 
 
@@ -372,6 +502,29 @@ If they choose to be contacted, the next page will ask for their name and contac
 [initial-screen]: images/Issuance/Initial_screen.png "Initial Screen"
 [feedback-tell-us-what-you-think]: images/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
 [feedback-form]: images/feedback-form.png "Feedback Form"
+[urn-search]: images/Issuance/urn_search.png "URN Search"
+[urn-retrieve]: images/Issuance/urn_retrieve.png "URN Retrieve"
+[duplicate-urn]: images/Issuance/duplicate_urn.png "URN Retrieve"
+[urn-recover]: images/Issuance/urn_recover.png "URN Recover"
+[urn-recover-result]: images/Issuance/urn_recover_result.png "URN Recover Result"
+[urn-issued]: images/Issuance/urn_issued.png "URN Issued"
+[urn-cancelled]: images/Issuance/urn_cancelled.png "URN Cancelled"
+[urn-about-to-expire]: images/Issuance/urn_about_to_expire.png "URN about to expire"
+[issuance-voucher]: images/issuance-voucher.png "Issuance Voucher"
+[patient-id]: images/Issuance/patient_id.png "Patient id"
+[select-patient]: images/Issuance/select_patient.png "Select Patient"
+[urn-dispense]: images/Issuance/urn_dispense.png "URN Dispense"
+[issuance-complete]: images/Issuance/issuance_complete.png "Issuance Complete"
+[proxy-id]: images/Issuance/proxy_id.png "Proxy id"
+[proxy-details]: images/Issuance/proxy_details.png "Proxy details"
+
+
+
+
+
+
+
+
 
 
 
