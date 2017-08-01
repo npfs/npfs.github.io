@@ -28,13 +28,13 @@ it has been dispensed
   * [Feedback - Tell us what you think](#feedback---tell-us-what-you-think)
   * [Other Supporting Functionality](#Other-Supporting-Functionality)
   
-**[Completing a Flu Assessment] (#complete-a-flu-assessment)
+**[Completing a Flu Assessment](#complete-a-flu-assessment)
 
 **[Call Opening](#call-opening)**
  * [Selecting Call Source](#selecting-call-source)
  * [Terms of Use](#terms-of-use)
- * [Current Location] (#current-location)
- * [Uk or Foreign Visitor] (#uk-or-foreign-visitor)
+ * [Current Location](#current-location)
+ * [Uk or Foreign Visitor](#uk-or-foreign-visitor)
  * [Collecting Patient Details](#collecting-patient-details) 
 
 **[Initial Assessment](#initial-assessment)**
