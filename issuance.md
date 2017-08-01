@@ -7,7 +7,7 @@ title: NPFS Issuance Training
 
 ## Contents
 
-## 1.Introduction
+## Introduction
 
 The National Pandemic Flu Service (NPFS) Issuance Application has three areas of functionality which are as follows:
 
@@ -23,26 +23,21 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
   * [Feedback - Tell us what you think](#feedback---tell-us-what-you-think)
   * [Other Supporting Functionality](#other-supporting functionality)
    
-## 2. URN Lookup
-
-
+## **[URN Lookup](#URN Lookup)
   * [Duplicate URN](#duplicate-urn)
  
-## 3. Recover URN
 
-** Recover URN(#recover-urn)**
+## **[Recover URN](#recover-urn)**
 
-## 4. URN Status
-** [URN status](#urn-status)**
-
+##**[URN status](#urn-status)**
  * [URN Issued](#urn-issued)
  * [URN Cancelled](#urn-cancelled)
  * [URN Expired](#urn-expired)
  * [URN about to Expire](#urn-about-to-expire)
 
-## 5. Issue with Prescription, FP10SS or Voucher
+## **[Issue with Prescription, FP10SS or Voucher] (#issue-with-prescription-fp10ss-or-voucher)
 
-## **6.[Identification of Collecting Person](#identification-of-collecting-person)**
+## **[Identification of Collecting Person](#identification-of-collecting-person)**
 
 * [Patient Identification](#patient-identification)
 * [Proxy Identification](#proxy-identification)
