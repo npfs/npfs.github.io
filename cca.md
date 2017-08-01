@@ -10,7 +10,7 @@ title: NPFS CCA Training
 
 The National Pandemic Flu Service (NPFS) Call Centre Application has two areas of functionality which are as follows:
 
-* Clinical Assessment. If a caller has flu like symptoms the call centre agent can use the application to take them
+* Clinical Assessment. If a Caller has flu like symptoms the call centre agent can use the application to take them
  through a series of questions to result in a clinical assessment of their condition. The outcome may be authorisation 
  of an antiviral or alternatively other care adive such as call 999, contact your GP etc 
 
@@ -116,7 +116,7 @@ You may have multiple roles available.  Select the most appropriate role for the
 
 ### New Call Screen
 
-This screen allows the Call Centre Advisor to begin a clinical assessment for a caller by selecting **Start Now** or
+This screen allows the Call Centre Advisor to begin a clinical assessment for a Caller by selecting **Start Now** or
 alternatively aceees the Manage URN finctionality by selecting **Manage URN**
 
 ![][new-call-screen]
@@ -141,7 +141,7 @@ Re-apply the previously undone function and move forward
 
 ##### End Call
 
-Allows you to quickly end the assessment and return to the start, for example if the caller no longer wants to continue
+Allows you to quickly end the assessment and return to the start, for example if the Caller no longer wants to continue
 
 ![][grey-box]
 
@@ -163,7 +163,7 @@ This will provide help and advice for each screen of the assessment process.  Re
 
 ##### Notes
 
-Use this to record any important information that might need to be recorded outside of the normal assessment, e.g. if the caller is abusive.
+Use this to record any important information that might need to be recorded outside of the normal assessment, e.g. if the Caller is abusive.
 
 ##### Answers
 
@@ -216,40 +216,40 @@ Select the appropriate Calling Source from the drop down list.
 Select **Not applicable** for an ordinary call. Most calls will be registered as an ordinary call, however
 the call may be a specified call type e.g. Language Line or British Sign Language.
 
-Use **Other - please specify** for any other type of call, or a misdirected call, e.g. caller wanted NHS111.
+Use **Other - please specify** for any other type of call, or a misdirected call, e.g. Caller wanted NHS111.
 It is mandatory to add a note of explanation before closing the call.
 
 ### Terms of Use
 
-The Call Center Advisor should read the Terms of Use to the caller. The caller needs to agree to the Terms of Use before the 
+The Call Center Advisor should read the Terms of Use to the Caller. The Caller needs to agree to the Terms of Use before the 
 assessment can continue.
 
 ![][Terms_of_Use]
 
-Select **Agree** if the caller provides confirmation that they agree with the Terms of Use and wish to proceed with the assessment.
+Select **Agree** if the Caller provides confirmation that they agree with the Terms of Use and wish to proceed with the assessment.
 
-If the caller does not accept the Terms of Use select **Disagree** which will end the assessment. A further screen will be presented that 
-needs to be read to the caller confirming why they cannot proceed and offering them the option to restart.
+If the Caller does not accept the Terms of Use select **Disagree** which will end the assessment. A further screen will be presented that 
+needs to be read to the Caller confirming why they cannot proceed and offering them the option to restart.
 
 ![][Decline]
 
 ### Current Location
 
-The caller needs to confirm which UK country the patient is located at the moment.
+The Caller needs to confirm which UK country the patient is located at the moment.
 
 This is important as all countries may not be NPFS at the same time. The outcome of the clinical advice may also
 differ by UK country.
 
 ### Uk or Foreign Visitor
 
-The caller needs to confirm whether the patient is a UK resident or a foreign visitor.
+The Caller needs to confirm whether the patient is a UK resident or a foreign visitor.
 
 For foreign visitots, following the clinical assessment questions you will be asked to gather further official
 patient identification information.
 
 ![][Foreign_visitor]
 
-Record these details accurately and confirm back with the caller.
+Record these details accurately and confirm back with the Caller.
 
 You must check spellings to ensure accuracy using the phonetic alphabet where appropriate.
 
@@ -281,20 +281,20 @@ If the Caller answers **\'yes\'** to any of these questions, record the answer a
 
 Click on **\'Restart\'** to return to start screen ready for your next call.
 
-If the caller answers no to all of the \'emergency check\' questions you will proceed to the next part of the assessment.
+If the Caller answers no to all of the \'emergency check\' questions you will proceed to the next part of the assessment.
 
 
 ### \'Recent Travel\' Questions
 
-The caller needs to confirm whether the patient has been abroard reecently and visited any country listed.
+The Caller needs to confirm whether the patient has been abroard reecently and visited any country listed.
 
-Recent Travel, if the caller cannot answer this question without help use the 'travel advice by country' link to help.
+Recent Travel, if the Caller cannot answer this question without help use the 'travel advice by country' link to help.
 
 If the Caller answers **\'yes\'** to any of these questions, record the answer and move on, you will advise them to contact their GP and 999 if their condition deteriorates.
 
 Click on \'Restart\' to return to start screen ready for your next call.
 
-If the caller answers no to all of the 'recent travel ' questions you will proceed to the next part of the assessment.
+If the Caller answers no to all of the 'recent travel ' questions you will proceed to the next part of the assessment.
 
 
 ### \'Clinical Assessment\' Questions
@@ -307,7 +307,7 @@ If the Caller answers **\'yes\'** to any of these questions, record the answer a
 
 Click on **\'Restart\'** to return to start screen ready for your next call.
 
-If the caller answers no to all of the 'clinical assessment' questions you will proceed to the next part of the assessment.
+If the Caller answers no to all of the 'clinical assessment' questions you will proceed to the next part of the assessment.
 
 
 ## Patient Data
@@ -316,9 +316,9 @@ If the caller answers no to all of the 'clinical assessment' questions you will 
 
 Following the Emergency Check questions, you will gather further Patient identification information.  Introduce these questions by saying: **\"I now need to find out some more details about the Patient.\"**
 
-> **Note:** The caller may not be the patient.
+> **Note:** The Caller may not be the patient.
 
-Recent Travel if the caller cannot answer this question without help use the \'travel advice by country\' link to help.
+Recent Travel if the Caller cannot answer this question without help use the \'travel advice by country\' link to help.
 
 
 ### Patient Identification
@@ -327,20 +327,20 @@ The First name, Surname and Postcode need to be gathered for the patient. The Ge
 
 ![][Patient_ID] 
 
-Gather these details accurately, filling out all the boxes on the screen and confirming back with the caller.  You must check spellings to ensure accuracy, using the phonetic alphabet where appropriate
+Gather these details accurately, filling out all the boxes on the screen and confirming back with the Caller.  You must check spellings to ensure accuracy, using the phonetic alphabet where appropriate
 
 The phonetic alphabet is available on every page in the grey floating panel on the right hand side
 
 Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued).
 
-If you make any errors in entering the information you must use the **\'Undo\'** feature to return to the necessary page to correct the information while the caller is still talking to you.
+If you make any errors in entering the information you must use the **\'Undo\'** feature to return to the necessary page to correct the information while the Caller is still talking to you.
 
 
 ## Clinical Assessment Questions
 
 These questions must be read from the screen **word-for-word**.  Use pauses to allow the Caller to think and respond.  If the Caller struggles to understand, you may use the alternative wording provided in the grey floating panel on the right.
 
-Allow the caller time to respond to each question, do not click on a button until they have confirmed their answer to each question.
+Allow the Caller time to respond to each question, do not click on a button until they have confirmed their answer to each question.
 
 For the flu symptom question, pause to identify whether the Patient has a high temperature **before** moving on to read out symptoms.
 
@@ -354,11 +354,11 @@ For the questions that follow, if the Caller answers \'yes\' to one part, record
 
 The **Swabbing** allows Public Health England to collect swabs from a sample of the infected population to provide data for analysis.
 
-This page will only appear if the caller has been assessed and they are going to be provided with an unique reference number for an anti-viral.
+This page will only appear if the Caller has been assessed and they are going to be provided with an unique reference number for an anti-viral.
 
 ![][swabbing-consent-question]
 
-If the caller agrees to participate in sample testing they must provide contact details including address and telephone number. 
+If the Caller agrees to participate in sample testing they must provide contact details including address and telephone number. 
 Address can be input via postcode search or entered manually. 
 
 The address search will be prepopulated with the Postcode entered earlier in the assessment.This can be changed if required.
@@ -370,8 +370,8 @@ The correct address should be confirmed with the call and **Confirm address** se
 
 ![][Address-confirm]
 
-If the address cannot be found the callers address can be entered manually following the **Enter address manually** link and populating the following fields with 
-information supplied by the caller.
+If the address cannot be found the Callers address can be entered manually following the **Enter address manually** link and populating the following fields with 
+information supplied by the Caller.
 
 ![][Address-manual]
 
@@ -398,7 +398,7 @@ Pause in between each paragraph to allow the Caller to take in the information a
 ![][URN]
 
 
-Provide authorisation number carefully, using phonetic alphabet for \'alpha\' characters, ask caller to repeat it back, checking each character - repeat process until
+Provide authorisation number carefully, using phonetic alphabet for \'alpha\' characters, ask Caller to repeat it back, checking each character - repeat process until
  they have it recorded correctly
 
 > If the patient says they don\'t have a flu friend, remind them it can be anyone (family member, friend, neighbour, work colleague, etc)
@@ -423,22 +423,22 @@ and stop once they have indicated they have noted items they can access/produce
 > *Not all assessments will result in the provision of an antiviral. In this case, the Patient should follow the clinical advice I am going to read out to you."*
 
 
-Here is an example from an assessment that reaches an end-point where an anti-viral has not been recommended. Depending on the assessment, other information may also appear to advise the caller.
+Here is an example from an assessment that reaches an end-point where an anti-viral has not been recommended. Depending on the assessment, other information may also appear to advise the Caller.
 
 ![][non-authorised-assessment]
 
 
 ### Searching for a Collection Point
 
-To help the caller to identify a collection point that is convenient for them, select **Show nearest collection points**.
+To help the Caller to identify a collection point that is convenient for them, select **Show nearest collection points**.
 
 The Collection Point Finder will automatically search for the 5 nearest Collection Points based on the postcode provided for the assessment.
 
 ![][Collection_point_map]
 
-You can manually change the postcode / enter a new postcode / Town / County to locate a Collection Point that is convenient for the caller / flu friend
+You can manually change the postcode / enter a new postcode / Town / County to locate a Collection Point that is convenient for the Caller / flu friend
 
-The grey floating panel provides additional help / text if you are struggling to find a Collection Point local to the caller
+The grey floating panel provides additional help / text if you are struggling to find a Collection Point local to the Caller
 
 By clicking on the name of the Collection Point in the list, full details are provided for you to relay to the Caller.
 
@@ -466,9 +466,9 @@ Select **Manage URN** from the opening screen.
 
 The Manage URN function can be used for a number of purposes:
 
-* Retrieving a previously issued URN for a caller, for example if they have forgotten it
+* Retrieving a previously issued URN for a Caller, for example if they have forgotten it
 * Checking on the status of a previously issued URN, for example if it might have expired
-* Cancelling a URN, for example if the caller wants to complete a new assessment, as their symptoms have changed
+* Cancelling a URN, for example if the Caller wants to complete a new assessment, as their symptoms have changed
 
 ### Search for a URN
 
@@ -503,9 +503,7 @@ Clicking on **Proceed** will cancel the URN, providing confirmation that the URN
 
 ![][URN_cancel_confirm]
 
-You can now continue  with another assessment of the patient.
-
-Clicking Restart will return you to the main screen.
+Clicking **Restart** will return you to the main screen.
 
 
 [welcome-screen]: images/CCA/welcome-screen.png "Welcome Screen"
