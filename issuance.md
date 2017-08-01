@@ -25,7 +25,7 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
    
 ## 2. URN Lookup
 
-**[URN Lookup](#urn-lookup)**
+
   * [Duplicate URN](#duplicate-urn)
  
 ## 3. Recover URN
@@ -33,11 +33,11 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
 ** Recover URN(#recover-urn)**
 
 ## 4. URN Status
- 
-**[URN Issued](#urn-issued)**
-**[URN Cancelled](#urn-cancelled)**
-**[URN Expired](#urn-expired)**
-**[URN about to Expire](#urn-about-to expire)**
+**[URN status](#urn-status)
+ *[URN Issued](#urn-issued)
+ *[URN Cancelled](#urn-cancelled)
+ *[URN Expired](#urn-expired)
+ *[URN about to Expire](#urn-about-to-expire)
 
 ## 5. Issue with Prescription, FP10SS or Voucher
 
@@ -497,7 +497,7 @@ You (or the patient if it is their feedback) can choose to be contacted about th
 
 If they choose to be contacted, the next page will ask for their name and contact details.
 
-[welcome-screen]: images/Issuance/Welcome-screen.png "Welcome Screen"
+[welcome-screen]: images/Issuance/Welcome_screen.png "Welcome Screen"
 [issuance-role-screen]: images/Issuance/issuance_role_screen.png "Issuance Role Screen"
 [initial-screen]: images/Issuance/Initial_screen.png "Initial Screen"
 [feedback-tell-us-what-you-think]: images/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
