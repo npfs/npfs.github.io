@@ -532,9 +532,9 @@ Clicking Restart will return you to the main screen.
 [manage-urn-button]: images/CCA/manage-urn-button.png "Manage URN Button"
 [manage-urn-search-form]: images/CCA/manage-urn-search-form.png "Manage URN Search Form"
 [URN_search]: images/CCA/URN_search.png "URN Search"
-[cancel_urn] : images/CCA/cancel_urn.png "Cancel URN"
+[cancel_urn] : images/CCA/cancel-urn.png "Cancel URN"
 [URN_cancel_details]: images/CCA/URN_cancel_details.png "URN cancellation details"
-[URN_cancel_confirm]: images/CCA/URN_cencel_confirm.png "URN cancellation confirmation"
+[URN_cancel_confirm]: images/CCA/URN_cancel_confirm.png "URN cancellation confirmation"
 
 
 
