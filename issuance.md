@@ -21,9 +21,9 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
   * [Select Your User Role](#select-your-user-role)
   * [Initial Encounter Screen](#initial-encounter-screen)
   * [Feedback - Tell us what you think](#feedback---tell-us-what-you-think)
-  * [Other Supporting Functionality](#other-supporting functionality)
+  * [Other Supporting Functionality](#other-supporting-functionality)
    
-## **[URN Lookup](#URN Lookup)**
+## **[URN Lookup](#urn-lookup)**
   * [Duplicate URN](#duplicate-urn)
  
 
