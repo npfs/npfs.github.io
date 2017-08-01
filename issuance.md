@@ -42,7 +42,7 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
 
 ## 5. Issue with Prescription, FP10SS or Voucher
 
-## 6. **[Identification of Collecting Person](#identification-of-collecting-person)**
+## **6.[Identification of Collecting Person](#identification-of-collecting-person)**
 
 * [Patient Identification](#patient-identification)
 * [Proxy Identification](#proxy-identification)
