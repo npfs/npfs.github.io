@@ -44,8 +44,8 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
 
 ## 6. Identification of Collecting Person
 
-**[Patient Identification](#patient-identification)**
-**[Proxy Identification](#proxy-identification)**
+* [Patient Identification](#patient-identification)
+* [Proxy Identification](#proxy-identification)
 
  
 ## Getting Started
