@@ -503,7 +503,7 @@ Clicking on **Proceed** will cancel the URN, providing confirmation that the URN
 
 ![][URN_cancel_confirm]
 
-You can now proceed with a fresh assessment of the patient.
+You can now continue  with another assessment of the patient.
 
 Clicking Restart will return you to the main screen.
 
