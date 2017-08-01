@@ -405,6 +405,7 @@ Provide authorisation number carefully, using phonetic alphabet for \'alpha\' ch
 
 > If the patient says they don\'t have a flu friend, remind them it can be anyone (family member, friend, neighbour, work colleague, etc)
 
+
 ## Finding a Collection Point
 
 ### Collection Point Identification Documentation
@@ -444,6 +445,7 @@ The grey floating panel provides additional help / text if you are struggling to
 By clicking on the name of the Collection Point in the list, full details are provided for you to relay to the Caller.
 
 There is also a direction link to googlemaps to assist in directing the Caller to the nearest collection point.
+
 
 ## Ending the Call Mid-Assessment
 
