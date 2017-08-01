@@ -2,6 +2,164 @@
 layout: default
 title: NPFS Issuance Training
 ---
+
+# Issuance Application
+
+## Contents
+
+## 1.Introduction
+
+The National Pandemic Flu Service (NPFS) Issuance Application has three areas of functionality which are as follows:
+
+* URN Lookup
+* Recover URN
+* Issue with Prescription,FP10SS or Voucher.
+
+**[Getting Started](#getting-started)**
+
+  * [Login Screen](#login-screen)
+  * [Select Your User Role](#select-your-user-role)
+  * [Initial Encounter Screen](#initial-encounter-screen)
+  * [Feedback - Tell us what you think](#feedback---tell-us-what-you-think)
+  * [Other Supporting Functionality] (#other-supporting functionality)
+  
+  
+##2. URN Lookup
+
+**[URN Lookup](#urn-lookup)
+  * [Duplicate URN](#duplicate-urn)
+ 
+##3. Recover URN
+
+** Recover URN(#recover-urn)
+
+##4. URN Status
+ 
+**[URN Issued](#urn-issued)
+**[URN Cancelled](#urn-cancelled)
+**[URN Expired](#urn-expired)
+**[URN about to Expire](#urn-about-to expire)
+
+##5. Issue with Prescription, FP10SS or Voucher
+
+##6. Identification of Collecting Person
+**[Patient Identification](#patient-identification)
+**[Proxy Identification](#proxy-identification)
+
+
+  
+## Getting Started
+
+Open this link to access the NPFS Issuance Portal [www.nationalpandemicfluservice.nhs.uk/issuance](https://www.nationalpandemicfluservice.nhs.uk/issuance).  
+It may be advisable to create a bookmark if you will access the application frequently.
+
+At any time you can safely use the **training** system to become familiar with the functions of the live system.  Any actions you take will not be reflected
+in the live system and you will have no impact on services or patients. [training.nationalpandemicfluservice.nhs.uk/issuance](https://training.nationalpandemicfluservice.nhs.uk/issuance)
+
+In order to use the NPFS Issuance Application the user must be been assigned a Collection Point Assistant Centre (CPA) role.
+
+
+### Login screen
+
+Enter your unique Username and Password.  These will be supplied by your Team Leader.
+
+![][welcome-screen]
+
+> Your password must be changed at the first login.  Full instructions are provided later in this guide.
+>
+> Your account will be locked out after 3 unsuccessful login attempts.  Your Team Leader will need to reset.
+
+
+In order to discourage easy-to-guess passwords, the new password must either be a passphrase (preferred) or it should meet the following complexity requirements:
+
+> The password must be at least 10 characters long.
+>
+> The password must contain at least one uppercase letter.
+>
+> The password must contain at least one number.
+>
+> The password must contain at least one special character (such as !,?,@,#,$,%,&,* and +)
+> 
+> A table showing a full list of special characters can be found at the following location:
+
+[Special Character List](https://www.owasp.org/index.php/Password_special_characters)
+
+
+### Select Your User Role
+
+You may have multiple roles available.  Select the most appropriate role for the tasks that you need to complete.
+
+![][issuance-role-screen]
+
+> **Your Session** -  Confirms the username and role you are currently logged in as, as well as your login time and role once you have selected it.
+>
+> **Logout** - Displayed on all screens, click here to logout of system
+
+
+### Initial Encounter Screen
+
+This screen allows the Collection Point Assistant to select the appropriate option for an encounter:
+The CPA should perform one of the following:
+
+* Enter a URN number to search for details of any authorised antiviral if the URN is available 
+* Select **Recover URN** search for details of any authorised by patient demographics if the URN is not available 
+* Select Issue by Voucher to allow issuance of an antiviral if the patient presents a prescription or voucher 
+
+![][initial-screen]
+
+### Feedback - Tell us what you think
+
+You can provide feedback on the Pandemic Flu service at any time whilst on the portal, by clicking the ”Provide feedback on the Pandemic Flu service” link on the right of every page.
+
+This is important, and will help us improve the service offered.
+
+This can be used either for feedback from your own experience, or for the patient you are talking to, for example if the questions are unclear for them.
+
+![][feedback-tell-us-what-you-think]
+
+This will allow you to enter in the type of feedback, including a free text field to provide specific information.
+
+![][feedback-form]
+
+You (or the patient if it is their feedback) can choose to be contacted about this feedback, or not.
+
+If they choose to be contacted, the next page will ask for their name and contact details.
+
+
+### Other Supporting Functionality
+
+In addition to feedback there is a range of other supporting functionality which is available throughout any assessment these include:
+
+* Language Support – the portal can be used in English or Welsh by selecting the appropriate link.
+* Supplementary Pandemic Flu Information. A separate link is provided for information on flu symptoms for each country.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Issuance Portal
 
 ## Contents
@@ -45,7 +203,7 @@ At any time you can safely use the **training** system to become familiar with t
 
 Enter your unique Username and Password.  These will be supplied by your Team Leader.
 
-![][issuance-login-screen]
+![][welcome-screen]
 
 > Your password must be changed at the first login.  Full instructions are provided later in this guide.
 >
@@ -209,10 +367,11 @@ You (or the patient if it is their feedback) can choose to be contacted about th
 
 If they choose to be contacted, the next page will ask for their name and contact details.
 
-
-
-
-
+[welcome-screen]: images/Issuance/Welcome-screen.png "Welcome Screen"
+[issuance-role-screen]: images/Issuance/issuance_role_screen.png "Issuance Role Screen"
+[initial-screen]: images/Issuance/Initial_screen.png "Initial Screen"
+[feedback-tell-us-what-you-think]: images/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
+[feedback-form]: images/feedback-form.png "Feedback Form"
 
 
 
