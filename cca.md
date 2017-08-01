@@ -505,92 +505,6 @@ Clicking Restart will return you to the main screen.
 
 
 
-
-
-
-
-
-
-## Patient Data
-
-### Introducing the Assessment
-
-Following the Emergency Check questions, you will gather further Patient identification information.  Introduce these questions by saying: **\"I now need to find out some more details about the Patient.\"**
-
-> **Note:** The caller may not be the patient.
-
-Recent Travel if the caller cannot answer this question without help use the \'travel advice by country\' link to help.
-
-
-### Patient Identification
-
-Gather these details accurately, filling out all the boxes on the screen and confirming back with the Caller.  You must check spellings to ensure accuracy, using the phonetic alphabet where appropriate
-
-The phonetic alphabet is available on every page in the grey floating panel on the right hand side
-
-Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued).
-
-If you make any errors in entering the information you must use the \'Undo\' feature to return to the necessary page to correct the information while the caller is still talking to you.
-
-
-
-
-## Sample Testing Participation
-
-### Overview
-
-The **Swabbing** allows Public Health England to collect swabs from a sample of the infected population to provide data for analysis.
-
-This page will only appear if the caller has been assessed and they are going to be provided with an unique reference number for an anti-viral.
-
-![][swabbing-consent-question]
-
-
-
-### What Happens Next
-
-The patient will be asked for address details.  They *may* be sent a swabbing pack by post.
-
-You can either find their address using their postcode:
-
-![][postcode-address-finder]
-
-Or you can enter the address manually:
-
-![][postcode-address-finder-screen2]
-
-
-## Clinical Assessment Questions
-
-These questions must be read from the screen **word-for-word**.  Use pauses to allow the Caller to think and respond.  If the Caller struggles to understand, you may use the alternative wording provided in the grey floating panel on the right.
-
-Allow the caller time to respond to each question, do not click on a button until they have confirmed their answer to each question.
-
-For the flu symptom question, pause to identify whether the Patient has a high temperature **before** moving on to read out symptoms.
-
-For the questions that follow, if the Caller answers \'yes\' to one part, record the answer and move on.
-
-
-
-
-## Assessment Results
-
-### Introducing the Summary
-
-![][authorisation-intro]
-
-Follow the guidance in the grey floating panel on the right hand side.
-
-Instead of reading the on-screen text at the beginning of the assessment summary, you should say:
-**\"This is the end of the assessment. Please listen to the information I am about to provide carefully and write down the key points.\"**
-
-**Clinical Advice** - read this section **word-for-word** - remember the Caller needs to be clear what they should do and when
-
-Pause in between each paragraph to allow the Caller to take in the information and make notes
-
-**Antiviral Authorisation** - read this section **word-for-word**
-
-
 ### URN
 
 ![][authorisation-urn]
@@ -627,33 +541,6 @@ Here is an example from an assessment that reaches an end-point where an anti-vi
 To help the caller to identify a collection point that is convenient for them, click **Show nearest collection points**
 
 Collection Point Finder will automatically search for the 5 nearest Collection Points  based on the postcode provided for the assessment.
-
-You can manually change the postcode / enter a new postcode / Town / County that is convenient for the caller / flu friend
-
-The grey floating panel provides additional help / text if you are Struggling to Find an ACP Local to the Caller and how to provide details on the Collection Points found
-
-By clicking on the name of the Collection Point in the list, full details are provided for you to relay to the caller.
-
-
-### Ending the Call Mid-Assessment
-
-If a user ends the call, you should press the “End Call” button in the grey “floaty box”.
-
-![][floaty-box-tabs]
-
-The next screen will allow you to choose a reason for ending call and exiting the assessment.
-
-In addition to the drop-down list, there is a free-text field to enter supporting information.
-
-![][exit-assessment-reason]
-
-
-
-
-
-
-
-
 
 
 
