@@ -26,7 +26,7 @@ it has been dispensed
   * [New Call Screen](#new-call-screen)
   * [Call Script & Hints Panel](#call-script--hints-panel)
   * [Feedback - Tell us what you think](#feedback---tell-us-what-you-think)
-  * [Other Supporting Functionality] (#Other-Supporting-Functionality)
+  * [Other Supporting Functionality](#Other-Supporting-Functionality)
   
 **[Completing a Flu Assessment] (#complete-a-flu-assessment)
 
@@ -40,8 +40,8 @@ it has been dispensed
 **[Initial Assessment](#initial-assessment)**
 
  * [\'Emergency Check\' Questions](#emergency-check-questions)
- * [\'Recent Travel\' Questions] (#recent-travel-questions)
- * [\'Clinical Assessment\'Questions] (#clinical-assessment-questions)
+ * [\'Recent Travel\' Questions](#recent-travel-questions)
+ * [\'Clinical Assessment\'Questions](#clinical-assessment-questions)
  
  **[Patient Data](#patient-data)**
 
