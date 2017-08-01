@@ -27,8 +27,10 @@ it has been dispensed
   * [Call Script & Hints Panel](#call-script--hints-panel)
   * [Feedback - Tell us what you think](#feedback---tell-us-what-you-think)
   * [Other Supporting Functionality](#Other-Supporting-Functionality)
-  
 
+## 2. Completing a Flu Assessment
+  
+  
 **[Call Opening](#call-opening)**
  * [Selecting Call Source](#selecting-call-source)
  * [Terms of Use](#terms-of-use)
@@ -61,6 +63,8 @@ it has been dispensed
   * [Searching for Collection Point](#searching-for-collection-point)
   
 ** [Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)
+
+## 3. Manage URN
 
 **[Manage URN](#manage-urn)**
 
@@ -201,8 +205,7 @@ In addition to feedback there is a range of other supporting functionality which
 * Collection point finder - to allow the nearest collection point to be located without having to complete an assessment
 * Supplementary Pandemic Flu information. A separate link is provided for information on flu symptoms for each county
 
-
-## 2.Completing a Flu Assessment
+## 2. Completing a Flu Assessment
 
 ## Call Opening
 
@@ -401,7 +404,6 @@ Provide authorisation number carefully, using phonetic alphabet for \'alpha\' ch
  they have it recorded correctly
 
 > If the patient says they don\'t have a flu friend, remind them it can be anyone (family member, friend, neighbour, work colleague, etc)
-
 
 ## Finding a Collection Point
 
