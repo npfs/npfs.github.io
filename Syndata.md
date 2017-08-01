@@ -26,7 +26,7 @@ The following page opens:
 
 ## Step 3
 
-On the far right hand side of each row you will see **fx**. Next to this there is a delete function marked with an **X**.
+On the far right hand side of each row you will see _**fx**_. Next to this there is a delete function marked with an _**X**_.
 
 Delete the **email** and **IP Address** rows.
 
@@ -41,7 +41,7 @@ Choose a date range e.g 6/28/1948-6/28/2017.
 
 > The date should be entered in American format (MM/DD/YYYY).
 
-#Step 6 
+## Step 6 
 
 Next go to the drop down box at the side of the date range and change this from American format to English format(DD/MM/YYYY).
 
@@ -91,30 +91,15 @@ You will now have your list for the new starters to use on the training environm
 
 Repeat this process when you have used all of the synthetic data and each time it will generate different post codes. 
 
-The file below shows an exmaple of a file output after following the above steps:
+**The image below shows an example of the data in the excel file output after following the above steps.**
 
-|id	|first_name|	last_name	|gender|	Date of Birth	|Post code|
-1	Christin	MacDermot	Female	24/03/1959	BN20 9SF
-2	Serena	Mepsted	Female	11/11/1971	L13 2BX
-3	Darnell	Stubbeley	Male	27/05/1970	DY8 4AY
-4	Jana	Sapir	Female	01/05/1949	CV6 5RF
-5	Lane	Kissell	Male	24/03/2008	WF7 5WW
-6	Odell	Nelligan	Male	04/01/1998	NR15 2XN
-7	Padraic	Rumke	Male	05/09/1987	FY1 1RZ
-8	Gaby	Floweth	Male	22/04/1997	CB21 5NP
-9	Prue	Swansbury	Female	13/02/1981	EX20 4JX
-10	Kev	Roeby	Male	09/05/1981	BN16 4JS
-11	Bella	Myall	Female	01/10/1986	TA19 9FL
-12	Armin	Simenon	Male	15/07/1990	BH14 9JJ
-13	Dael	Jeayes	Female	17/08/1956	ST6 5JB
-
-
+![][Syndata_format]
 
 
 Then use the passwords as required.
 
 [Mockaroo_opening_page]: images/Syndata/Mockaroo_opening_page.png "Mockaroo Opening page"
 [UKpostcodes]: images/Syndata/UKpostcodes.png "UK postcodes"
-
+[Syndata_format]: images/Syndata/Syndata_format.png "UK postcodes"
 
 
