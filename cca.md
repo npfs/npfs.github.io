@@ -62,7 +62,7 @@ it has been dispensed
   * [Collection Point Identification Documentation](#collection-point-identifications)
   * [Searching for Collection Point](#searching-for-collection-point)
   
-** [Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)**
+**[Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)**
 
 ## 3. Manage URN
 
