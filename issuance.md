@@ -29,13 +29,13 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
 
 ## **[Recover URN](#recover-urn)**
 
-##**[URN status](#urn-status)**
+## **[URN status](#urn-status)**
  * [URN Issued](#urn-issued)
  * [URN Cancelled](#urn-cancelled)
  * [URN Expired](#urn-expired)
  * [URN about to Expire](#urn-about-to-expire)
 
-## **[Issue with Prescription, FP10SS or Voucher] (#issue-with-prescription-fp10ss-or-voucher)
+## **[Issue with Prescription, FP10SS or Voucher](#issue-with-prescription-fp10ss-or-voucher)
 
 ## **[Identification of Collecting Person](#identification-of-collecting-person)**
 
