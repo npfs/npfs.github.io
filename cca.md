@@ -474,11 +474,11 @@ The Manage URN function can be used for a number of purposes:
 
 You can find a URN in the system using either the URN itself, or by supplying a post code, date of birth and gender on the following screen.
 
-![][manage-urn-search-form]
+![][URN_Search]
 
 All URNs matching the supplied search criteria are shown.
 
-![][URN_search]
+![][cancel_urn]
 
 > **Note:** It is possible and valid for multiple URNs with the same number to exist.
 >
