@@ -478,8 +478,6 @@ You can find a URN in the system using either the URN itself, or by supplying a 
 
 All URNs matching the supplied search criteria are shown.
 
-![][cancel_urn]
-
 > **Note:** It is possible and valid for multiple URNs with the same number to exist.
 >
 > Ensure that the correct URN for the Caller is identified before proceeding.
@@ -531,7 +529,7 @@ Clicking **Restart** will return you to the main screen.
 [manage-urn-button]: images/CCA/manage-urn-button.png "Manage URN Button"
 [manage-urn-search-form]: images/CCA/manage-urn-search-form.png "Manage URN Search Form"
 [URN_search]: images/CCA/URN_search.png "URN Search"
-[cancel_urn]: images/CCA/cancel-urn.png "Cancel URN"
+[cancel_urn]: images/CCA/Cancel_urn_reason.png "Cancel URN Reason"
 [URN_cancel_details]: images/CCA/URN_cancel_details.png "URN cancellation details"
 [URN_cancel_confirm]: images/CCA/URN_cancel_confirm.png "URN cancellation confirmation"
 
