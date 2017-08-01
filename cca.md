@@ -460,6 +460,8 @@ Each Call Centre will have a different way of managing any escalation calls so p
 
 ## 3.Manage URN
 
+Select **Manage URN** from the opening screen.
+
 ![][manage-urn-button]
 
 The Manage URN function can be used for a number of purposes:
@@ -470,7 +472,7 @@ The Manage URN function can be used for a number of purposes:
 
 ### Search for a URN
 
-You can find a URN in the system using either the URN itself, or by supplying a post code, date of birth and gender.
+You can find a URN in the system using either the URN itself, or by supplying a post code, date of birth and gender on the following screen.
 
 ![][manage-urn-search-form]
 
@@ -489,7 +491,6 @@ All URNs matching the supplied search criteria are shown.
 
 To **cancel** a URN, select the correct row in the table and select the **Cancel URN** button
 
-
 The next screen will prompt you to provide a reason for cancellation. The option of “Other” will prompt you to enter details in a free text box.
 
 ![][cancel_urn]
@@ -498,7 +499,7 @@ You will then be prompted to Confirm the cancellation of this URN:
 
 ![][urn_cancel_details]
 
-Clicking on **Proceed** will cancel the URN, providing confirmation.
+Clicking on **Proceed** will cancel the URN, providing confirmation that the URN has been cancelled.
 
 ![][URN_cancel_confirm]
 
