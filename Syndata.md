@@ -44,7 +44,6 @@ Choose a date range e.g 6/28/1948-6/28/2017.
 #Step 6 
 
 Next go to the drop down box at the side of the date range and change this from American format to English format(DD/MM/YYYY).
-![][generated_passwords]
 
 ## Step 7
 
@@ -114,8 +113,8 @@ The file below shows an exmaple of a file output after following the above steps
 
 Then use the passwords as required.
 
-[opening_page]: images/Passwd/opening_page.png "Opening page"
-[generated_passwords]: images/Passwd/generated_passwords.png "Generated Passwords"
-[excel_import]: images/Passwd/excel_import.png "Excel_import"
+[Mockaroo_opening_page]: images/Syndata/Mockaroo_opening_page.png "Mockaroo Opening page"
+[UKpostcodes]: images/Syndata/UKpostcodes.png "UK postcodes"
+
 
 
