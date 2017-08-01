@@ -58,11 +58,11 @@ it has been dispensed
   * [Introducing the Summary](#introducing-the-summary)
   * [URN](#urn)
   
-**[Finding a Collection Point](#finding-a-collection-point)
+**[Finding a Collection Point](#finding-a-collection-point)**
   * [Collection Point Identification Documentation](#collection-point-identifications)
   * [Searching for Collection Point](#searching-for-collection-point)
   
-** [Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)
+** [Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)**
 
 ## 3. Manage URN
 
