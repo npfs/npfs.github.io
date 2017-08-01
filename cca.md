@@ -388,7 +388,7 @@ Instead of reading the on-screen text at the beginning of the assessment summary
 
 ![][Assessment]
 
-** Clinical Advice is higlighted and also has sidebars for emphasis.
+**Clinical Advice** is higlighted and also has sidebars for emphasis.
 These sections should be read **word-for-word** - remember the Caller needs to be clear what they should do and when
 
 Pause in between each paragraph to allow the Caller to take in the information and make notes
@@ -492,11 +492,11 @@ To **cancel** a URN, select the correct row in the table and select the **Cancel
 
 The next screen will prompt you to provide a reason for cancellation. The option of “Other” will prompt you to enter details in a free text box.
 
-![][cancel-urn]
+![][cancel_urn]
 
 You will then be prompted to Confirm the cancellation of this URN:
 
-![][urn-cancel-details]
+![][urn_cancel_details]
 
 Clicking on **Proceed** will cancel the URN, providing confirmation.
 
@@ -505,52 +505,6 @@ Clicking on **Proceed** will cancel the URN, providing confirmation.
 You can now proceed with a fresh assessment of the patient.
 
 Clicking Restart will return you to the main screen.
-
-
-
-
-### URN
-
-![][authorisation-urn]
-
-Provide authorisation number carefully, using phonetic alphabet for \'alpha\' characters, ask caller to repeat it back, checking each character - repeat process until they have it recorded correctly
-
-> If the patient says they don\'t have a flu friend, remind them it can be anyone (family member, friend, neighbour, work colleague, etc)
->
-> If they maintain that they cannot find one, read the advice from the screen
-
-
-### Collection Point Identification
-
-![][authorisation-collection]
-
-Make sure Caller is aware that ID is required for both the flu friend and the patient in order to collect the antivirals.  Accepted forms of identification are shown on the authorisation page.
-
-When reading out items from the list, start at an appropriate place for the Caller, e.g. Passports for overseas visitors, and stop once they have indicated they have noted items they can access/produce
-
-> For assessments that result in a \'no antiviral\' outcome, Agent scripting is as follows:
->
-> *"Based on the answers provided, the Patient has **not** been recommended for an antiviral now.*
->
-> *Not all assessments will result in the provision of an antiviral. In this case, the Patient should follow the clinical advice I am going to read out to you."*
-
-
-Here is an example from an assessment that reaches an end-point where an anti-viral has not been recommended. Depending on the assessment, other information may also appear to advise the caller.
-
-![][non-authorised-assessment]
-
-
-### Searching for Collection Point
-
-To help the caller to identify a collection point that is convenient for them, click **Show nearest collection points**
-
-Collection Point Finder will automatically search for the 5 nearest Collection Points  based on the postcode provided for the assessment.
-
-
-
-
-
-
 
 
 [welcome-screen]: images/CCA/welcome-screen.png "Welcome Screen"
@@ -571,7 +525,7 @@ Collection Point Finder will automatically search for the 5 nearest Collection P
 [Address-manual]: images/CCA/Address_manual.png "Address Manual"
 [Assessment]: images/CCA/Assessment.png "Assessment Results"
 [URN]:images/CCA/URN.png "URN" 
-[non-authorised-assessment] :images/CCA/non-authorised-assessment.png "Non Authorised Assessment"
+[non-authorised-assessment]: images/CCA/non-authorised-assessment.png "Non Authorised Assessment"
 [Collection_point_map]: images/CCA/Collection_point_map.png "Collection Point Map"
 [End_call]: images/CCA/End_call.png "End Call"
 [Exit_assessment]: images/CCA/Exit_Assessment.png "Exit Assessment"
