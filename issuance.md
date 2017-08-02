@@ -207,7 +207,7 @@ The date of expiry will be also displayed.
 
 If a URN has expired you will not be able to issue the antivirals.
 
-INPUT DIAGRAM
+![][urn-expired]
 
 ### URN about to Expire
 
