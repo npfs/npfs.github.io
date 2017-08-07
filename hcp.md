@@ -45,8 +45,8 @@ it has been dispensed
  * [Introducing the Assessment](#introducing-the-assessment)
  * [Patient Identification](#patient-identification)
  
-** [Bypass the Algorithm](#bypass-the-algorithm)**
-** [Follow the Algorithm](#follow-the-algorithm)**
+**[Bypass the Algorithm](#bypass-the-algorithm)**
+**[Follow the Algorithm](#follow-the-algorithm)**
 
 **[Clinical Assessment Questions](#clinical-assessment-questions)**
 
@@ -458,7 +458,7 @@ Clicking **Restart** will return you to the main screen.
 [Decline]: images/HCP/decline.png  "Decline"
 [Foreign_visitor]: images/HCP/foreign_visitor.png  " Foreign Visitor"
 [Patient_Details]: images/HCP/Patient_Details.png " Patient Details"
-[Patient_ID]: images/HCP/Patient-ID.png " Patient ID"
+[Patient-ID]: images/HCP/Patient-ID.png " Patient ID"
 [Bypass-algoritm]: images/HCP/bypass.png "Bypass Algorithm"
 [swabbing-consent-question]: images/CCA/swabbing-consent-question.png "Swabbing Consent Question"
 [Address-lookup]: images/HCP/address_lookup.png "Address Lookup"
