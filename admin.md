@@ -296,28 +296,46 @@ and you will receive the following error message
 
 
 
-
-
-
-
-
-
-
 ## Collection Point Upload
 
 ![][admin-collection-point-upload]
 
-### CSV Creation
+This is where the Collection Point information is managed (i.e. active collection points and their associated details)
 
-* This is where the Collection Point information is managed (i.e. active collection points and their associated details)
-* This element of the Admin Portal is restricted to very limited, high privileged users from the Command & Control and NHS Digital DevOps teams
+This element of the Admin Portal is restricted to very limited, high privileged users from the Command & Control and NHS Digital DevOps teams
+
+### Collection Point Data File
+
+Collection Point Data is loaded via a CSV excel file(.xslx)
+
+The file contains two worksheets:
+
+  * Worksheet 1: Collection point data (such as CPCOde, Address, Postcode, NHSOrgcode)
+  * Worksheet 2: Collection point opening times split into General dats and additional days
+
+The full definition of ecah field in the file can be seen on the clooection point upload page 
+
+This file is expected to be provided via CPAS in the above format.
 
 
-### CSV Upload
+### Collection Point File upload.
 
-* This is where the Collection Point information is managed (i.e. active collection points and their associated details)
-* This element of the Admin Portal is restricted to very limited, high privileged users from the Command & Control and NHS Digital DevOps teams
+Use the **Browse** button to locate your saved excel (.xsls) file
 
+Click **Upload File** to carry out the Collection Point upload.
+
+If everything is satifactory you will see a message **File Transferred Successfully"
+
+If you try to upload a collection point file whilst a previous file is still being processed
+then you will receive an error message and instructed to try the upload again after 5 Minutes.
+
+![][try-again] 
+
+The details of any file upload can be seen by inspection FLREP0049.
+By selecting the file name details of any warnings or records skipped can be viewed.
+
+
+![][splunk-report] 
 
 ### Known Issues
 
@@ -399,25 +417,13 @@ The gray box is not currently displayed in the citizen or issuance portal
 [admin-bulk-load-errors]: images/Admin/admin-bulk-load-errors.png "Admin Bulk Load Errors"
 [Permissions]: images/Admin/Permissions.png "Paermissions"
 [region-mobilised]: images/Admin/Region_mobilised.png "Region Mobilised"
-[Targetted]: images/Admin/Taregetted.png "Targetted"
+[Targetted]: images/Admin/Targetted.png "Targetted"
 [Roles]: images/Admin/Roles.png "Roles"
 [Show]: images/Admin/Show.png "Show grey box"
 [admin-system-config]: images/Admin/admin-system-config.png "Admin System Config Icon"
+[try-again]: images/Admin/Try_again.png "Try_again"
+[splunk-report]: images/Admin/Splunk_report.png "Splunk Report"
 
 
 
-[login-screen]: images/login-screen.jpg "Login Screen"
-[role-screen]: images/role-screen.jpg "Role Screen"
-[admin-login]: images/admin-login.png "Admin Login Screen"
-[admin-role-screen]: images/admin-role-screen.png "Admin Role Screen"
-[admin-collection-point-upload]: images/admin-collection-point-upload.png "Admin Collection Point Upload Icon"
-[admin-bulk-load]: images/admin-bulk-load.png "Admin Bulk Load Icon"
-[admin-bulk-load-template]: images/admin-bulk-load-template.png "Admin Bulk Load Template"
-[admin-bulk-load-errors]: images/admin-bulk-load-errors.png "Admin Bulk Load Errors"
-[admin-system-config]: images/admin-system-config.png "Admin System Config Icon"
-[admin-user-management]: images/admin-user-management.png "Admin User Management Icon"
-[admin-user-create-details]: images/admin-user-create-details.png "Admin User Create Details"
-[admin-user-search]: images/admin-user-search.png "Admin User Search Box"
-[admin-user-search-results]: images/admin-user-search-results.png "Admin User Search Results"
-[admin-user-two-factor]: images/admin-user-two-factor.png "Admin User Two Factor"
 
