@@ -458,7 +458,7 @@ Clicking **Restart** will return you to the main screen.
 [Decline]: images/HCP/decline.png  "Decline"
 [Foreign_visitor]: images/HCP/foreign_visitor.png  " Foreign Visitor"
 [Patient_Details]: images/HCP/Patient_Details.png " Patient Details"
-[Patient-ID]: images/HCP/Patient-ID.png " Patient ID"
+[Patient-ID]: images/HCP/Patient_ID.png " Patient ID"
 [Bypass-algoritm]: images/HCP/bypass.png "Bypass Algorithm"
 [swabbing-consent-question]: images/CCA/swabbing-consent-question.png "Swabbing Consent Question"
 [Address-lookup]: images/HCP/address_lookup.png "Address Lookup"
