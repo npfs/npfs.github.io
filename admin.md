@@ -416,7 +416,7 @@ The gray box is not currently displayed in the citizen or issuance portal
 [admin-bulk-load]: images/Admin/admin-bulk-load.png "Admin Bulk Load Icon"
 [admin-bulk-load-errors]: images/Admin/admin-bulk-load-errors.png "Admin Bulk Load Errors"
 [Permissions]: images/Admin/Permissions.png "Paermissions"
-[region-mobilised]: images/Admin/Region_mobilised.png "Region Mobilised"
+[region-mobilised]: images/Admin/region_mobilised.png "Region Mobilised"
 [Targetted]: images/Admin/Targetted.png "Targetted"
 [Roles]: images/Admin/Roles.png "Roles"
 [Show]: images/Admin/Show.png "Show grey box"
