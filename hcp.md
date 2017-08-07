@@ -45,16 +45,16 @@ it has been dispensed
  * [Introducing the Assessment](#introducing-the-assessment)
  * [Patient Identification](#patient-identification)
  
-** [Bypass the Algorithm](#bypass-the-algorithm)
-** [Follow the Algorithm](#follow-the-algorithm)
+** [Bypass the Algorithm](#bypass-the-algorithm)**
+** [Follow the Algorithm](#follow-the-algorithm)**
 
 **[Clinical Assessment Questions](#clinical-assessment-questions)**
 
 **[Sample Testing Participation](#sample-testing-participation)**
 
-**[Select the Course of Treatment](#select-course-of-treatment)
+**[Select the Course of Treatment](#select-course-of-treatment)**
 
-**[Issue from Locally held Stock](#issue-from-locally-held-stock)
+**[Issue from Locally held Stock](#issue-from-locally-held-stock)**
 
 **[Assessment Results](#assessment-results)**
 
@@ -93,8 +93,6 @@ In order to use the NPFS HCP Application the user must be been assigned one of t
 The functionality available to a user will be dependent on the role assigned which is   summarised in diagram below:
 
 ![][hcp-roles]
-
-
 
 
 ### Login screen
@@ -452,15 +450,15 @@ Clicking **Restart** will return you to the main screen.
 [hcp-roles]: images/HCP/HCP_Roles.png "HCP Roles"
 [welcome-screen]: images/CCA/welcome-screen.png "Welcome Screen"
 [roleselect-HCP]: images/HCP/roleselect_HCP.png "Role Screen"
-[new-call-screen]: images/HCP/New_Call.png "New Call Screen"
+[new-call-screen]: images/HCP/new_call_screen.png "New Call Screen"
 [grey-box]: images/HCP/grey_box.png "Grey Floaty Box "
 [feedback-tell-us-what-you-think]: images/CCA/feedback-tell-us-what-you-think.png "Feedback - Tell us what you think"
 [feedback-form]: images/CCA/feedback-form.png "Feedback Form"
 [Terms_of_Use]: images/CCA/Terms_of_Use.png  " Terms of Use"
-[Decline]: images/hcp/decline.png  " Decline"
+[Decline]: images/HCP/decline.png  "Decline"
 [Foreign_visitor]: images/HCP/foreign_visitor.png  " Foreign Visitor"
 [Patient_Details]: images/HCP/Patient_Details.png " Patient Details"
-[Patient_ID]: images/HCP/Patient_ID.png " Patient ID"
+[Patient_ID]: images/HCP/Patient-ID.png " Patient ID"
 [Bypass-algoritm]: images/HCP/bypass.png "Bypass Algorithm"
 [swabbing-consent-question]: images/CCA/swabbing-consent-question.png "Swabbing Consent Question"
 [Address-lookup]: images/HCP/address_lookup.png "Address Lookup"
