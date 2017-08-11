@@ -102,7 +102,7 @@ In order to discourage easy-to-guess passwords, the new password must either be 
 > 
 > A table showing a full list of special characters can be found at the following location:
 
-[Special Character List](https://www.nationalpandemicfluservice.nhs.uk/callcentre)
+[Special Character List](https://www.owasp.org/index.php/Password_special_characters)
 
 ### Select Your User Role
 

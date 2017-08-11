@@ -168,6 +168,16 @@ Click **Continue**
 
 Only users set-up as your subordinates are manageable by you, you cannot edit your own permissions or those of people whose accounts you do not manage
 
+#### Known Issue with IE11
+
+There is a known issue with early versions of IE11 where if you search for a user and multiple matches
+are returned only the first can be selected.
+
+This issue only affects IE11 versions before 11.413.15063.0 (11.0.44 KB4025252).
+
+If affected by this issue the user is advised to either upgrade to a later version of IE11 or alternatively
+switch to a different browser.
+
 
 ### Manage Account Details
 
