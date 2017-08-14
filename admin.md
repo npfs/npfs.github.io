@@ -13,11 +13,8 @@ The National Pandemic Flu Service (NPFS) Admin Application has four areas of fun
 
 * User Management
 * Bulk Upload of Users
-* Collection Point Upload
+* Collection Point Upload 
 * Configuration Changes
-
-
-
 
 Each of these are described in sections below.
 
@@ -40,31 +37,31 @@ Each of these are described in sections below.
 
   * [CSV Creation](#csv-creation)
   * [CSV Upload](#csv-upload)
-
-
+  
+  
 ## 4. **[Collection Point Upload](#collection-point-upload)**
 
   * [CSV Creation](#csv-creation)
   * [CSV Upload](#csv-upload)
-  * [Known Issues](#known-issues)
-
-
+  * [Known Issues](#known-issues)  
+  
+ 
 ## 5. **[System Configuration](#system-configuration)**
 
   * [Environment Settings](#environment-settings)
   * [Portal Status](#portal-status)
-  * [Region Mobilised](#region-mobilised)
+  * [Regions Mobilised](#region-mobilised)
   * [Targetted Treatment](#targetted-treatment)
   * [Roles Required](#roles-required)
   * [Show Floaty Box](#show-floaty-box)
-
+  
 
 ## Getting Started
 
-Open this link to access the NPFS Admin Portal [www.nationalpandemicfluservice.nhs.uk/admin](https://www.nationalpandemicfluservice.nhs.uk/admin).
+Open this link to access the NPFS Admin Portal [www.nationalpandemicfluservice.nhs.uk/admin](https://www.nationalpandemicfluservice.nhs.uk/admin). 
  It may be advisable to create a bookmark if you will access the application frequently.
 
-At any time you can safely use the **training** system to become familiar with the functions of the live system.  Any actions you take will not be reflected
+At any time you can safely use the **training** system to become familiar with the functions of the live system.  Any actions you take will not be reflected 
 in the live system and you will have no impact on services or patients. [training.nationalpandemicfluservice.nhs.uk/admin](https://training.nationalpandemicfluservice.nhs.uk/admin)
 
 
@@ -96,10 +93,10 @@ In order to discourage easy-to-guess passwords, the new password must either be 
 > The password must contain at least one number.
 >
 > The password must contain at least one special character (such as !,?,@,#,$,%,&,* and +)
->
+> 
 > A table showing a full list of special characters can be found at the following location:
 
-[Special Character List](https://www.owasp.org/index.php/Password_special_characters)
+[Special Character List](https://www.nationalpandemicfluservice.nhs.uk/callcentre)
 
 
 ### Select Your User Role
@@ -131,12 +128,12 @@ Click **Create new user**
 
 ![][new-user-details]
 
-Complete necessary account details (Username, First Name, Surname, etc.) on **Account Details** tab. While some fields are marked optional it is recommended all are populated
+Complete necessary account details (Username, First Name, Surname, etc.) on **Account Details** tab. While some fields are marked optional it is recommended all are populated 
 on the account details Tab.
 
 It should be noted that if the First Name or Surname are double barrelled then the second name after the hyphen will be shown lower case.
 
-It should be noted when creating a new user only a single account needs to be created which can have several different roles allocated against it. There is no need to create multiple Usernames
+It should be noted when creating a new user only a single account needs to be created which can have several different roles allocated against it. There is no need to create multiple Usernames 
 for the same individual.
 
 When creating a Username it should be the users First and Second name, separated by a “.” With capitals at the start of each name. eg: Fred.Olsen.
@@ -186,8 +183,8 @@ Select **Account Details** Tab
 The selected users account details are displayed
 
 Here you can edit any of these details, then click on save.
-
-If a pop-up notice is to be shown to the user will see every time they log on to the system (e.g. could link to a policy document / reminder of a specific working
+ 
+If a pop-up notice is to be shown to the user will see every time they log on to the system (e.g. could link to a policy document / reminder of a specific working 
 practice) this should be entered on the **Notices** Tab.This is a free text field so can you can decide whether you wish to use this feature or not.
 
 ### Manage Roles and Access
@@ -212,7 +209,7 @@ A users password can either be reset to a temporary value or two-factor authenti
 
 If a subordinate has forgotten their password you will need to carry out a password reset
 
-The manager would need enter the username or details of the subordinate and select search to retrieve their account. The manager should then select the correct account from the search results
+The manager would need enter the username or details of the subordinate and select search to retrieve their account. The manager should then select the correct account from the search results 
 returned and select **Continue**.
 
 Select **Reset Password** and enter a Temporary Password by following the Create Unique Passwords procedure.
@@ -231,7 +228,7 @@ Two-Factor Authentication can be set up for any user by their manager.
 
 It creates a safe login mechanism (instead of a fixed password) which requires a user to enter a set PIN + a 6 digit code generated by the Authentication Application.
 
-User will need to ensure they have an Authenticator App installed on their smart phone - search for "Google Authenticator" in the relevant application store for their
+User will need to ensure they have an Authenticator App installed on their smart phone - search for "Google Authenticator" in the relevant application store for their 
 smartphone (Apple / Andriod / etc.)
 
 On selection of Two-Factor Authentication you will be provided with the following screen where the user will be required to create a 20 character secret key and 4 digit pin number
@@ -240,7 +237,7 @@ On selection of Two-Factor Authentication you will be provided with the followin
 
 You must ensure the user whose account you are editing is with you and inputs their own Secret Key and PIN.
 
-After entering the data and pressing **Submit**
+After entering the data and pressing **Submit** 
 
 A QR code and a key will be presented to the user
 
@@ -254,10 +251,10 @@ A message will be presented that 2-factor verification had been succesful and a 
 
 ![][2-Factor]
 
-When the user logs in with 2 factor verification enabled the should enter their username  and in the password field they should enter a 10 digits
+When the user logs in with 2 factor verification enabled the should enter their username  and in the password field they should enter a 10 digits 
 which are the 4 digit Pin + 6 digits generated by Authenticator App (instead of a password).
 
-The code from the Authenticator App is only valid for a short period of time and will be refreshed so the current displayed code must be entered at time of login.
+The code from the Authenticator App is only valid for a short period of time and will be refreshed so the current displayed code must be entered at time of login. 
 
 
 
@@ -270,7 +267,7 @@ This allows a large number of users to be created via a data file upload.
 
 ### CSV Creation
 
-The list of users and their details should be created as a comma-separated value file with one line per record.
+The list of users and their details should be created as a comma-separated value file with one line per record. 
 
 The fields and format of the data to be included in the file together with an example are shown on the Bulk User upload page in the admin portal.
 
@@ -302,7 +299,7 @@ An example failure record is shown here
 It should noted that if you upload users with roles that you do not have permission to create they will not be processed
 and you will receive the following error message
 
-![][permissions]
+![][permissions] 
 
 
 
@@ -323,7 +320,7 @@ The file contains two worksheets:
   * Worksheet 1: Collection point data (such as CPCOde, Address, Postcode, NHSOrgcode)
   * Worksheet 2: Collection point opening times split into General dats and additional days
 
-The full definition of ecah field in the file can be seen on the clooection point upload page
+The full definition of ecah field in the file can be seen on the clooection point upload page 
 
 This file is expected to be provided via CPAS in the above format.
 
@@ -339,13 +336,13 @@ If everything is satifactory you will see a message **File Transferred Successfu
 If you try to upload a collection point file whilst a previous file is still being processed
 then you will receive an error message and instructed to try the upload again after 5 Minutes.
 
-![][try-again]
+![][try-again] 
 
 The details of any file upload can be seen by inspection FLREP0049.
 By selecting the file name details of any warnings or records skipped can be viewed.
 
 
-![][splunk-report]
+![][splunk-report] 
 
 ### Known Issues
 
@@ -357,6 +354,8 @@ By selecting the file name details of any warnings or records skipped can be vie
 
 
 ## System Configuration
+
+### Environment Settings
 
 ![][admin-system-config]
 
@@ -370,11 +369,11 @@ The following portals can be configured via the **Environmantal Path** deop down
 
 The following items can be configured for each Portal:
 
-### Status
+### Portal Status
 
 For each Portal their status can be set via a drop down box to either
 * Active
-* Dormant
+* Dormant 
 * Unavailable
 
 ### Regions Mobilised
@@ -387,8 +386,8 @@ By delecting a country would mean that portal would not be available in that cou
 
 ### Targetted Treatment
 
-The algorithm with the Citizen, Call Centre and HCP portals can be
-configured so that all patients that have flu symptoms are authorised with antiviral (treat all ) or a restricted subset (targetted).
+The algorithm with the Citizen, Call Centre and HCP portals can be 
+configured so that all patients that have flu symptoms are authorised with antiviral (treat all ) or a restricted subset (targetted). 
 This selection can be made by UK Country.
 
 ![][Targetted]
@@ -403,7 +402,7 @@ For each portal the roles that have access can be configured, This can be one or
 
 ![][Roles]
 
-### Show
+### Show Floaty Box
 
 This allows the grey floaty box within the Call Centre and HCP Portal to be configured including showing  answers, guidance etc plus the ability undo the last operation.
 
@@ -426,6 +425,7 @@ The gray box is not currently displayed in the citizen or issuance portal
 [admin-bulk-load]: images/Admin/admin-bulk-load.png "Admin Bulk Load Icon"
 [admin-bulk-load-errors]: images/Admin/admin-bulk-load-errors.png "Admin Bulk Load Errors"
 [Permissions]: images/Admin/Permissions.png "Paermissions"
+[admin-collection-point-upload]: images-collection-point-upload.png "cpu upload icon"
 [region-mobilised]: images/Admin/region_mobilised.png "Region Mobilised"
 [Targetted]: images/Admin/Targetted.png "Targetted"
 [Roles]: images/Admin/Roles.png "Roles"
