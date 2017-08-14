@@ -58,7 +58,6 @@ Each of these are described in sections below.
 
 ## Getting Started
 
-**THIS IS A TEST Message**
 
 Open this link to access the NPFS Admin Portal [www.nationalpandemicfluservice.nhs.uk/admin](https://www.nationalpandemicfluservice.nhs.uk/admin). 
  It may be advisable to create a bookmark if you will access the application frequently.
@@ -207,7 +206,7 @@ Once you click on save this will be immediately added to your subordinates list 
 
 A users password can either be reset to a temporary value or two-factor authentication can be enable.
 
-### Password Reset
+### Manage Password - Reset
 
 If a subordinate has forgotten their password you will need to carry out a password reset
 
@@ -224,7 +223,7 @@ You must inform the subordinate of the reset password in a secure manner
 
 SCAS are responsible for the distribution of passwords and account details, making use of secure nhs.net e-mails to transfer SCAS to advise of appropriate channels for communicating new passwords (i.e. not email)
 
-### 2 Factor Authentication
+### Manage Password - 2 Factor Authentication
 
 Two-Factor Authentication can be set up for any user by their manager.
 
@@ -398,7 +397,7 @@ Deselecting a country means treat all will be implemented for that country
 
 Note: Targetted treatment is associated with the clinical  algorithm hence changing these setting on the issuance portal will have no impact on the operation of the portals.
 
-### Role Required
+### Roles Required
 
 For each portal the roles that have access can be configured, This can be one or more roles e.g. HCP Portal
 
