@@ -11,12 +11,12 @@ title: NPFS HCP Training
 The National Pandemic Flu Service (NPFS) Health Care Professional has two areas of functionality which are as follows:
 
 * Clinical Assessment. If a Caller has flu like symptoms the call centre agent can use the application to take them
- through a series of questions to result in a clinical assessment of their condition. The outcome may be authorisation 
- of an antiviral or alternatively other care adive such as call 999, contact your GP etc 
+ through a series of questions to result in a clinical assessment of their condition. The outcome may be authorisation
+ of an antiviral or alternatively other care adive such as call 999, contact your GP etc
 
-* Manage URN. For a patient that has already been authorised for an antiviral this functionality allow the call agent 
-to search for details of URN if they are lost plus check the status of a URN and also cancel an authorised antiviral before 
-it has been dispensed 
+* Manage URN. For a patient that has already been authorised for an antiviral this functionality allow the call agent
+to search for details of URN if they are lost plus check the status of a URN and also cancel an authorised antiviral before
+it has been dispensed
 
 
 **[Getting Started](#getting-started)**
@@ -29,13 +29,13 @@ it has been dispensed
   * [Other Supporting Functionality](#Other-Supporting-Functionality)
 
 ## 2. Completing a Flu Assessment
-  
-  
+
+
 **[Call Opening](#call-opening)**
  * [Terms of Use](#terms-of-use)
  * [Current Location](#current-location)
  * [Uk or Foreign Visitor](#uk-or-foreign-visitor)
- * [Collecting Patient Details](#collecting-patient-details) 
+ * [Collecting Patient Details](#collecting-patient-details)
 
 **[Initial Assessment](#initial-assessment)**
 
@@ -44,7 +44,7 @@ it has been dispensed
 
  * [Introducing the Assessment](#introducing-the-assessment)
  * [Patient Identification](#patient-identification)
- 
+
 **[Bypass the Algorithm](#bypass-the-algorithm)**
 **[Follow the Algorithm](#follow-the-algorithm)**
 
@@ -60,11 +60,11 @@ it has been dispensed
 
   * [Introducing the Summary](#introducing-the-summary)
   * [URN](#urn)
-  
+
 **[Finding a Collection Point](#finding-a-collection-point)**
   * [Collection Point Identification Documentation](#collection-point-identifications)
   * [Searching for Collection Point](#searching-for-collection-point)
-  
+
 **[Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)**
 
 ## 3. Manage URN
@@ -77,11 +77,11 @@ it has been dispensed
 
 ## Getting Started
 
-Open this link to access the NPFS Health Care Professional Application [www.nationalpandemicfluservice.nhs.uk/hcp](https://www.nationalpandemicfluservice.nhs.uk/hcp).  
+Open this link to access the NPFS Health Care Professional Application [www.nationalpandemicfluservice.nhs.uk/hcp](https://www.nationalpandemicfluservice.nhs.uk/hcp).
 It may be advisable to create a bookmark if you will access the application frequently.
 
-At any time you can safely use the **training** system to become familiar with the functions of the live system.  
-Any actions you take will not be reflected in the live system and you will have no impact on services or patients. 
+At any time you can safely use the **training** system to become familiar with the functions of the live system.
+Any actions you take will not be reflected in the live system and you will have no impact on services or patients.
 [training.nationalpandemicfluservice.nhs.uk/hcp](https://training.nationalpandemicfluservice.nhs.uk/hcp)
 
 In order to use the NPFS HCP Application the user must be been assigned one of the following roles:
@@ -115,7 +115,7 @@ In order to discourage easy-to-guess passwords, the new password must either be 
 > The password must contain at least one number.
 >
 > The password must contain at least one special character (such as !,?,@,#,$,%,&,* and +)
-> 
+>
 > A table showing a full list of special characters can be found at the following location:
 
 [Special Character List](https://www.nationalpandemicfluservice.nhs.uk/callcentre)
@@ -210,14 +210,14 @@ The patient needs to provides confirmation that they agree with the terms of use
 
 Select **Agree** if the patient provides confirmation that they agree with the Terms of Use and wish to proceed with the assessment.
 
-If the patient does not accept the Terms of Use select **Disagree** which will end the assessment. A further screen will be presented that 
+If the patient does not accept the Terms of Use select **Disagree** which will end the assessment. A further screen will be presented that
 needs to be read to the Caller confirming why they cannot proceed and offering them the option to restart.
 
 ![][Decline]
 
 If the HCP is in a surgery then they should make an appointment for the patient to see a GP.
 
-If assessment is being carried out by the GP he should select agree after explaining to the patient why their consent is required and continue with the assessement. 
+If assessment is being carried out by the GP he should select agree after explaining to the patient why their consent is required and continue with the assessement.
 
 ### Current Location
 
@@ -240,7 +240,7 @@ patient identification information.
 
 The Healthcare Professional should gather the following information:
 
-![][Patient_Details] 
+![][Patient_Details]
 
 Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued).
 
@@ -250,7 +250,7 @@ Patient Details must be entered correctly for the patient to be able to collect 
 
 ## Initial Assessment
 
-The Healthcare Professional will then be presented with a number of question which are used to make an initial assessments of a patient symptoms. This is to confirm that the symptoms are no associated with 
+The Healthcare Professional will then be presented with a number of question which are used to make an initial assessments of a patient symptoms. This is to confirm that the symptoms are no associated with
 a more serious condition.
 
 These include:
@@ -263,13 +263,13 @@ If the patients answers /'yes/' to any of these questions the patient should be 
 
 ## Patient Data
 
-Following completion of the initial assessment further details of the patient need to be gathered. 
+Following completion of the initial assessment further details of the patient need to be gathered.
 
 ### Patient Identification
 
 The First name, Surname and Postcode need to be gathered for the patient. The Gender and Date of Birth will be pre-populated with data entered previously
 
-![][Patient-ID] 
+![][Patient-ID]
 
 Patient Details must be entered correctly for the patient to be able to collect Antivirals (if they are issued).
 
@@ -279,18 +279,18 @@ If you make any errors in entering the information you must use the **\'Undo\'**
 
 Applicability: Healthcare Professional – GP Only
 
-If a user has a role of Healthcare Professional – GP only they will be presented with options to either follow the clinical algoritm (like other users) or alternatively bypass the algorithm 
-and directly prescribe an antiviral. 
+If a user has a role of Healthcare Professional – GP only they will be presented with options to either follow the clinical algoritm (like other users) or alternatively bypass the algorithm
+and directly prescribe an antiviral.
 
 The on screen text contains a note advising that the algorithm should be followed and warn against by-passing the algoritm.
 
-![][Bypass-algoritm] 
+![][Bypass-algoritm]
 
 Note: Heathcare Professional – Non GP and Health sector employee will always have to follow the algorithm.
 
 ## Follow Algorithm
 
-When following the algorithm a series of questions will be presented the answers to which need to be gathered from the patient. 
+When following the algorithm a series of questions will be presented the answers to which need to be gathered from the patient.
 There are critical pieces of information that need to be submitted for the system to advise on an appropriate treatment course for each assessment.
 
 
@@ -302,8 +302,8 @@ This page will only appear if the patient has been assessed and they are going t
 
 ![][swabbing-consent-question]
 
-If the patient agrees to participate in sample testing they must provide contact details including address and telephone number. 
-Address can be input via postcode search or entered manually. 
+If the patient agrees to participate in sample testing they must provide contact details including address and telephone number.
+Address can be input via postcode search or entered manually.
 
 The address search will be prepopulated with the Postcode entered earlier in the assessment.This can be changed if required.
 
@@ -313,7 +313,7 @@ If the **Find Address** is selected another box will appear which will have a dr
 
 The correct address should be confirmed with the call and **Confirm address** selected.
 
-If the address cannot be found the patients address can be entered manually following the **Enter address manually** link and populating the following fields with 
+If the address cannot be found the patients address can be entered manually following the **Enter address manually** link and populating the following fields with
 information supplied by the patient.
 
 It is also mandatory that the patient provides phone contact details in order to complete the swabbing participation section.
@@ -331,7 +331,7 @@ The system will show a recommended dosebased on the information provided:
 
 ![][select-treatment]
 
-The Health Care professional should then select the antiviral and dosage from the drop down menu. If an antiviral or dosage is selected that does 
+The Health Care professional should then select the antiviral and dosage from the drop down menu. If an antiviral or dosage is selected that does
 not match the recommended dose a justification must be given:
 
 ![][alt-dosage]
@@ -343,7 +343,7 @@ not match the recommended dose a justification must be given:
 
 If you have stock of the drug you can chose to issue to the patient at this point. Issue from locally-held stock should be selected and a dispensing reference added.
 
-![][local-stock] 
+![][local-stock]
 
 ## Assessment Results
 
@@ -358,7 +358,7 @@ This page has useful information for the patient, either read it to them or use 
 ## Issue URN
 
 If an antiviral has been authorised and not issued from locally held stock a patient will be issued with a URN.
-This needs to collect from an antiviral collection point you must ensure they record the URN generated for them by the system and advise them of 
+This needs to collect from an antiviral collection point you must ensure they record the URN generated for them by the system and advise them of
 the ID requirements for antiviral collection.
 
 **Note: If an antiviral has been issued from locally-held stock, a URN and advice how to   find a collection point. This information should be ignored as not relevant
@@ -369,7 +369,7 @@ the ID requirements for antiviral collection.
 
 ## Finding a Collection Point
 
-Make sure patient is aware that ID is required for both the flu friend **AND** the patient in order to collect the antivirals. Accepted forms of identification 
+Make sure patient is aware that ID is required for both the flu friend **AND** the patient in order to collect the antivirals. Accepted forms of identification
 are shown on the authorisation page
 
 Additions forms of ID can be seen by selecting **View others form of Identification**.
@@ -393,7 +393,7 @@ If a patient wants to end an assesssment the HCP should press the **End Call** b
 
 ![][End_call]
 
-The next screen will allow you to choose a reason for ending call and exiting the assessment. 
+The next screen will allow you to choose a reason for ending call and exiting the assessment.
 
 ![][Exit_assessment]
 
@@ -466,7 +466,7 @@ Clicking **Restart** will return you to the main screen.
 [alt-dosage]: images/HCP/alt_dosage.png "Alternative dose"
 [local-stock]: images/HCP/local.png "Local Stock"
 [Assessment]: images/CCA/Assessment.png "Assessment Results"
-[URN]:images/CCA/URN.png "URN" 
+[URN]:images/CCA/URN.png "URN"
 [non-authorised-assessment]: images/CCA/non-authorised-assessment.png "Non Authorised Assessment"
 [Collection_point_map]: images/CCA/Collection_point_map.png "Collection Point Map"
 [End_call]: images/CCA/End_call.png "End Call"
