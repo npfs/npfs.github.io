@@ -56,7 +56,7 @@ it has been dispensed
 **[Assessment Results](#assessment-results)**
 
   * [Introducing the Summary](#introducing-the-summary)
-  * [Antiviral Authorisation](#anti-viral-authorisation)
+  * [Issue URN](#issue-urn)
   
 **[Finding a Collection Point](#finding-a-collection-point)**
 
@@ -69,7 +69,7 @@ it has been dispensed
 
 **[Manage URN](#manage-urn)**
 
-  * [Search for a URNgit ](#search-for-a-urn)
+  * [Search for a URN](#search-for-a-urn)
   * [Cancel a URN](#Cancel-a-urn)
 
 
@@ -396,9 +396,9 @@ These sections should be read **word-for-word** - remember the Caller needs to b
 
 Pause in between each paragraph to allow the Caller to take in the information and make notes
 
-### Antiviral Authorisation
+### Issue URN
 
-Read this section **word-for-word**
+If and antiviral has been authorised read this section **word-for-word**
 
 ![][URN]
 
