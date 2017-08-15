@@ -69,7 +69,7 @@ it has been dispensed
 
 **[Manage URN](#manage-urn)**
 
-  * [Search for a URN ](#search-for-a-urn)
+  * [Search for a URN](#search-for-a-urn)
   * [Cancel a URN](#Cancel-a-urn)
 
 
