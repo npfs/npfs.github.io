@@ -60,7 +60,7 @@ it has been dispensed
   
 **[Finding a Collection Point](#finding-a-collection-point)**
 
-  * [Collection Point Id](#collection-point-identification)
+  * [Collection Point Documentation](#collection-point-identification)
   * [Searching for a Collection Point](#searching-for-collection-point)
  
 **[Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)**
@@ -409,7 +409,7 @@ Provide authorisation number carefully, using phonetic alphabet for \'alpha\' ch
 
 ## Finding a Collection Point
 
-### Collection Point ID
+### Collection Point Documentation
 
 Make sure Caller is aware that ID is required for both the flu friend **AND** the patient in order to collect the antivirals. Accepted forms of identification 
 are shown on the authorisation page
