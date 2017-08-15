@@ -28,7 +28,7 @@ it has been dispensed
   * [Feedback - Tell us what you think](#feedback---tell-us-what-you-think)
   * [Other Supporting Functionality](#Other-Supporting-Functionality)
 
-## 2. Completing a Flu Assessment
+## 2. **[Completing a Flu Assessment](#completing-a-flu-assessment)**
 
 
 **[Call Opening](#call-opening)**
@@ -198,7 +198,7 @@ that is not welsh or english the HCP can advise them to call NPFS or 111 and ask
 * Collection point finder - to allow the nearest collection point to be located without having to complete an assessment
 * Supplementary Pandemic Flu information. A separate link is provided for information on flu symptoms for each county
 
-## 2. Completing a Flu Assessment
+##  Completing a Flu Assessment
 
 ## Call Opening
 
