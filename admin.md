@@ -272,11 +272,11 @@ The list of users and their details should be created as a comma-separated value
 
 The fields and format of the data to be included in the file together with an example are shown on the Bulk User upload page in the admin portal.
 
-Instruction and required fields for a bulk upload CSV are stated on the page
+Instruction and required fields for a bulk upload CSV are stated on the page.
 
 Accounts that you create using this function will be added immediately for you to manage.
 
-Select **Template** to download the template to ensure correct format is used (see below)
+Select **Template** to download the template to ensure correct format is used.
 
 SCAS to insert guidance on distribution of account details to subordinates
 
