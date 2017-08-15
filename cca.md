@@ -69,7 +69,7 @@ it has been dispensed
 
 **[Manage URN](#manage-urn)**
 
-  * [Search for a URN](#search-for-a-urn)
+  * [Search for a URNgit ](#search-for-a-urn)
   * [Cancel a URN](#Cancel-a-urn)
 
 
@@ -395,7 +395,6 @@ Instead of reading the on-screen text at the beginning of the assessment summary
 These sections should be read **word-for-word** - remember the Caller needs to be clear what they should do and when
 
 Pause in between each paragraph to allow the Caller to take in the information and make notes
-
 
 ### Antiviral Authorisation
 

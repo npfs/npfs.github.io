@@ -63,7 +63,7 @@ it has been dispensed
 **[Finding a Collection Point](#finding-a-collection-point)**
 
   * [Collection Point ID Documentation](#collection-point-identification)
-  * [Searching for Collection Point](#searching-for-collection-point)
+  * [Searching for a Collection Point](#searching-for-collection-point)
 
 **[Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)**
 
@@ -376,7 +376,7 @@ are shown on the authorisation page
 
 Additions forms of ID can be seen by selecting **View others form of Identification**.
 
-### Searching for Collection Point
+### Searching for a Collection Point
 
 To help the patient to identify a collection point that is convenient for them, click **Show nearest collection point**
 
