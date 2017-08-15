@@ -42,13 +42,12 @@ it has been dispensed
 
 **[Patient Data](#patient-data)**
 
- * [Introducing the Assessment](#introducing-the-assessment)
- * [Patient Identification](#patient-identification)
+
 
 **[Bypass the Algorithm](#bypass-the-algorithm)**
+
 **[Follow the Algorithm](#follow-the-algorithm)**
 
-**[Clinical Assessment Questions](#clinical-assessment-questions)**
 
 **[Sample Testing Participation](#sample-testing-participation)**
 
@@ -58,8 +57,8 @@ it has been dispensed
 
 **[Assessment Results](#assessment-results)**
 
-  * [Introducing the Summary](#introducing-the-summary)
-  * [URN](#urn)
+  * [Clinical Advice](#clinical-advice)
+  * [Issue URN](#Issue-urn)
 
 **[Finding a Collection Point](#finding-a-collection-point)**
   * [Collection Point Identification Documentation](#collection-point-identifications)
@@ -275,7 +274,7 @@ Patient Details must be entered correctly for the patient to be able to collect 
 
 If you make any errors in entering the information you must use the **\'Undo\'** feature to return to the necessary page to correct the information.
 
-## Bypass Algorithm
+## Bypass the Algorithm
 
 Applicability: Healthcare Professional – GP Only
 
@@ -288,7 +287,7 @@ The on screen text contains a note advising that the algorithm should be followe
 
 Note: Heathcare Professional – Non GP and Health sector employee will always have to follow the algorithm.
 
-## Follow Algorithm
+## Follow the Algorithm
 
 When following the algorithm a series of questions will be presented the answers to which need to be gathered from the patient.
 There are critical pieces of information that need to be submitted for the system to advise on an appropriate treatment course for each assessment.
@@ -355,7 +354,7 @@ This page has useful information for the patient, either read it to them or use 
 
 ![][Assessment]
 
-## Issue URN
+### Issue URN
 
 If an antiviral has been authorised and not issued from locally held stock a patient will be issued with a URN.
 This needs to collect from an antiviral collection point you must ensure they record the URN generated for them by the system and advise them of
@@ -369,10 +368,15 @@ the ID requirements for antiviral collection.
 
 ## Finding a Collection Point
 
+### Collection Point Identification Documentation
+
 Make sure patient is aware that ID is required for both the flu friend **AND** the patient in order to collect the antivirals. Accepted forms of identification
 are shown on the authorisation page
 
+
 Additions forms of ID can be seen by selecting **View others form of Identification**.
+
+### Searching for Collection Point
 
 To help the patient to identify a collection point that is convenient for them, click **Show nearest collection point**
 
