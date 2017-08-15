@@ -28,8 +28,8 @@ it has been dispensed
   * [Feedback - Tell us what you think](#feedback---tell-us-what-you-think)
   * [Other Supporting Functionality](#Other-Supporting-Functionality)
 
-## 2. Completing a Flu Assessment
-  
+
+## 2. **[Completing a Flu Assessment](#completing-a-flu-assessment)** 
   
 **[Call Opening](#call-opening)**
  * [Selecting Call Source](#selecting-call-source)
@@ -206,7 +206,7 @@ In addition to feedback there is a range of other supporting functionality which
 * Collection point finder - to allow the nearest collection point to be located without having to complete an assessment
 * Supplementary Pandemic Flu information. A separate link is provided for information on flu symptoms for each county
 
-## 2. Completing a Flu Assessment
+## Completing a Flu Assessment
 
 ## Call Opening
 
@@ -464,7 +464,7 @@ In addition to the drop-down list, there is a free-text field to enter supportin
 
 Each Call Centre will have a different way of managing any escalation calls so please refer to local guidance.
 
-## 3.Manage URN
+## Manage URN
 
 Select **Manage URN** from the opening screen.
 
