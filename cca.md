@@ -65,9 +65,7 @@ it has been dispensed
  
 **[Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)**
 
-## 3. Manage URN
-
-**[Manage URN](#manage-urn)**
+## 3. **[Manage URN](#manage-urn)**
 
   * [Search for a URN](#search-for-a-urn)
   * [Cancel a URN](#Cancel-a-urn)
