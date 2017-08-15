@@ -63,9 +63,8 @@ This will open a CSV file in Excel. Create a new header in column F titled Post 
 
 ## Step 11
 
-Open a tab on the internet and enter the following address:- 
-
-http://www.postcode.co.uk/random.htm
+Log on to the internet and go to the following site:
+[Postcode Site](http://www.postcode.co.uk/random.htm)
 
 This will take you to a site that generates UK random postcodes:
 
