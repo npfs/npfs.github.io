@@ -24,12 +24,13 @@ The National Pandemic Flu Service (NPFS) Issuance Application has three areas of
   * [Other Supporting Functionality](#other-supporting-functionality)
    
 ## **[URN Lookup](#urn-lookup)**
+
   * [Duplicate URN](#duplicate-urn)
  
-
 ## **[Recover URN](#recover-urn)**
 
 ## **[URN status](#urn-status)**
+
  * [URN Issued](#urn-issued)
  * [URN Cancelled](#urn-cancelled)
  * [URN Expired](#urn-expired)
