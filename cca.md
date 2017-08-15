@@ -42,7 +42,7 @@ it has been dispensed
 
  * [\'Emergency Check\' Questions](#emergency-check-questions)
  * [\'Recent Travel\' Questions](#recent-travel-questions)
- * [\'Clinical Assessment\'Questions](#clinical-assessment-questions)
+ * [\'Clinical Condition\'Questions](#clinical-condition-questions)
  
  **[Patient Data](#patient-data)**
 
@@ -56,9 +56,10 @@ it has been dispensed
 **[Assessment Results](#assessment-results)**
 
   * [Introducing the Summary](#introducing-the-summary)
-  * [URN](#urn)
+  * [Antiviral Authorisation](#anti-viral-authorisation)
   
 **[Finding a Collection Point](#finding-a-collection-point)**
+
   * [Collection Point Identification Documentation](#collection-point-identifications)
   * [Searching for Collection Point](#searching-for-collection-point)
   
@@ -209,7 +210,7 @@ In addition to feedback there is a range of other supporting functionality which
 
 ## Call Opening
 
-### Selecting Calling Source
+### Selecting Call Source
 
 Select the appropriate Calling Source from the drop down list.
 
@@ -299,7 +300,7 @@ Click on \'Restart\' to return to start screen ready for your next call.
 If the Caller answers no to all of the 'recent travel ' questions you will proceed to the next part of the assessment.
 
 
-### \'Clinical Assessment\' Questions
+### \'Clinical Condition\' Questions
 
 These questions must be read from the screen **word-for-word.**
 
@@ -395,7 +396,10 @@ These sections should be read **word-for-word** - remember the Caller needs to b
 
 Pause in between each paragraph to allow the Caller to take in the information and make notes
 
-**Antiviral Authorisation** - read this section **word-for-word**
+
+### Antiviral Authorisation
+
+Read this section **word-for-word**
 
 ![][URN]
 
