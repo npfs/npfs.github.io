@@ -56,7 +56,7 @@ it has been dispensed
 **[Assessment Results](#assessment-results)**
 
   * [Introducing the Summary](#introducing-the-summary)
-  * [ Antiviral Authorisation](#anti-viral-authorisation)
+  * [Antiviral Authorisation](#anti-viral-authorisation)
   
 **[Finding a Collection Point](#finding-a-collection-point)**
 
