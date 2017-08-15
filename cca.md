@@ -55,13 +55,13 @@ it has been dispensed
 
 **[Assessment Results](#assessment-results)**
 
-  * [Introducing the Summary](#introducing-the-summary)
-  * [Antiviral Authorisation](#anti-viral-authorisation)
+ * [Introducing the Summary](#introducing-the-summary)
+ * [Antiviral Authorisation](#anti-viral-authorisation)
   
 **[Finding a Collection Point](#finding-a-collection-point)**
 
-  * [Collection Point Identification Documentation](#collection-point-identification)
-  * [Searching for a Collection Point](#searching-for-collection-point)
+ * [Collection Point Identification Documentation](#collection-point-identification)
+ * [Searching for a Collection Point](#searching-for-collection-point)
   
 **[Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)**
 
