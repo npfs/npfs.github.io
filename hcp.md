@@ -61,7 +61,8 @@ it has been dispensed
   * [Issue URN](#Issue-urn)
 
 **[Finding a Collection Point](#finding-a-collection-point)**
-  * [Collection Point Identification Documentation](#collection-point-identifications)
+
+  * [Collection Point ID Documentation](#collection-point-identification)
   * [Searching for Collection Point](#searching-for-collection-point)
 
 **[Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)**
@@ -368,11 +369,10 @@ the ID requirements for antiviral collection.
 
 ## Finding a Collection Point
 
-### Collection Point Identification Documentation
+### Collection Point ID Documentation
 
 Make sure patient is aware that ID is required for both the flu friend **AND** the patient in order to collect the antivirals. Accepted forms of identification
 are shown on the authorisation page
-
 
 Additions forms of ID can be seen by selecting **View others form of Identification**.
 
