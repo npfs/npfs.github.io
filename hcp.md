@@ -404,7 +404,7 @@ In addition to the drop-down list, there is a free-text field to enter supportin
 
 Each Call Centre will have a different way of managing any escalation calls so please refer to local guidance.
 
-## 3.Manage URN
+## Manage URN
 
 Select **Manage URN** from the opening screen.
 
