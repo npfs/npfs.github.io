@@ -60,8 +60,8 @@ it has been dispensed
   
 **[Finding a Collection Point](#finding-a-collection-point)**
 
-  * [Collection Point Identification Documentation](#collection-point-identifications)
-  * [Searching for Collection Point](#searching-for-collection-point)
+  * [Collection Point Identification Documentation](#collection-point-identification)
+  * [Searching for a Collection Point](#searching-for-collection-point)
   
 **[Ending the Call Mid-Assessment](#ending-the-call-mid-assessment)**
 
