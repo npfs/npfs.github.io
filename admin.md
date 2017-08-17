@@ -5,7 +5,7 @@ title: NPFS Admin Portal Training
 ---
 # Admin Portal
 
-* IE8 & IE9 & early versions of IE 11 (before 11.413.15063.0) are *not* supported by the Admin portal. It is recommended that users access the Admin portal using Chrome or Firefox, or latest versions of IE.
+* IE8 & IE9 & early versions of IE 11 (before 11.413.15063.0) are **not** supported by the Admin portal. It is recommended that users access the Admin portal using Chrome or Firefox, or latest versions of IE.
 
 
 ## Contents
